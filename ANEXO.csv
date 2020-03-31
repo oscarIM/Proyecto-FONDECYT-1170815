@@ -1,0 +1,1811 @@
+species,Orden,Mean_brain_mass_g,Mean_body_mass_g,Fuentes,Body_for_3D
+Abeomelomys_sevia,Rodentia,1.49,61.4,"Boddy et al., 2012",NA
+Abrocoma_bennettii,Rodentia,3.15,250,Scan,"Faurby et al., 2018"
+Acerodon_celebensis,Chiroptera,5.18,390,Scan,"Faurby et al., 2018"
+Acerodon_jubatus,Chiroptera,8.26,1075,"Shi et al., 2018","Faurby et al., 2018"
+Acinonyx_jubatus,Carnivora,111,43000,"Isler & van Schaik, 2012",NA
+Acomys_cahirinus,Rodentia,0.7,31,"Isler & van Schaik, 2012",NA
+Acomys_wilsoni,Rodentia,0.58,18.5,"Boddy et al., 2012",NA
+Aconaemys_fuscus,Rodentia,1.89,133.5,Scan,"Faurby et al., 2018"
+Acrobates_pygmaeus,Diprotodontia,0.35,12,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Addax_nasomaculatus,Artiodactyla,185,107000,"Isler & van Schaik, 2012",NA
+Aepyceros_melampus,Artiodactyla,175,57610,"Boddy et al., 2012",NA
+Aepyprymnus_rufescens,Diprotodontia,12.3,2600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Aeromys_tephromelas,Rodentia,10.34,1189,"Boddy et al., 2012",NA
+Aethomys_chrysophilus,Rodentia,1.25,117,"Boddy et al., 2012",NA
+Aethomys_hindei,Rodentia,1.42,146.3,"Boddy et al., 2012",NA
+Aethomys_namaquensis,Rodentia,0.9,79.4,"Boddy et al., 2012",NA
+Ailuropoda_melanoleuca,Carnivora,205,87500,"Isler & van Schaik, 2012",NA
+Ailurus_fulgens,Carnivora,46.8,5590,"Boddy et al., 2012",NA
+Akodon_azarae,Rodentia,0.64,25,"Burger et al., 2019",NA
+Alcelaphus_buselaphus,Artiodactyla,284.9,114750,"Isler & van Schaik, 2012",NA
+Alces_alces,Artiodactyla,436,200000,"Boddy et al., 2012",NA
+Allactaga_sibirica,Rodentia,3.5,193,"Boddy et al., 2012",NA
+Allenopithecus_nigroviridis,Primates,58.02,4655,"Isler et al., 2008",NA
+Allochrocebus_lhoesti,Primates,74.2,4710,"Isler et al., 2008",NA
+Alouatta_belzebul,Primates,52.84,6395,"Isler et al., 2008",NA
+Alouatta_caraya,Primates,50.7,5012.5,"Boddy et al., 2012",NA
+Alouatta_guariba,Primates,49.1,4550,"Isler & van Schaik, 2012",NA
+Alouatta_macconnelli,Primates,61.33,6398.31,"Isler et al., 2008",NA
+Alouatta_palliata,Primates,50.04,5952,"Boddy et al., 2012",NA
+Alouatta_pigra,Primates,51.13,8915,"Isler et al., 2008",NA
+Alouatta_sara,Primates,59.08,6611.04,"Isler et al., 2008; Jones et al., 2009",NA
+Alouatta_seniculus,Primates,45.5,2827.5,"Boddy et al., 2012",NA
+Ametrida_centurio,Chiroptera,0.29,10.5,"Jones & MacLarnon, 2004",NA
+Ammospermophilus_harrisii,Rodentia,2.41,107.15,"Mateju, 2016",NA
+Ammospermophilus_interpres,Rodentia,2.5,94.45,"Mateju, 2016",NA
+Ammospermophilus_leucurus,Rodentia,2.25,105.85,"Mateju, 2016",NA
+Ammotragus_lervia,Artiodactyla,209,110000,"Isler & van Schaik, 2012",NA
+Anoura_caudifer,Chiroptera,0.42,10.5,"Jones & MacLarnon, 2004",NA
+Anoura_cultrata,Chiroptera,0.48,16.9,"Shi et al., 2018","Faurby et al., 2018"
+Anoura_geoffroyi,Chiroptera,0.58,15,"Jones & MacLarnon, 2004",NA
+Anoura_latidens,Chiroptera,0.53,14.7,"Shi et al., 2018","Faurby et al., 2018"
+Antechinomys_laniger,Dasyuromorphia,0.47,25,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_agilis,Dasyuromorphia,0.56,24,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_bellus,Dasyuromorphia,0.63,45,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_flavipes,Dasyuromorphia,0.64,45,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_leo,Dasyuromorphia,0.75,74,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_minimus,Dasyuromorphia,0.74,53.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_stuartii,Dasyuromorphia,0.76,27.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_subtropicus,Dasyuromorphia,0.72,28.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antechinus_swainsonii,Dasyuromorphia,1.09,53,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Antidorcas_marsupialis,Artiodactyla,135,36518,"Isler & van Schaik, 2012",NA
+Antilocapra_americana,Artiodactyla,125.6,46750,"Isler & van Schaik, 2012",NA
+Antilope_cervicapra,Artiodactyla,110.8,28800,"Isler & van Schaik, 2012",NA
+Antrozous_pallidus,Chiroptera,0.31,20.8,"Shi et al., 2018","Faurby et al., 2018"
+Aonyx_capensis,Carnivora,94.6,19110,"Isler & van Schaik, 2012",NA
+Aonyx_cinereus,Carnivora,38.09,4060,"Gittleman, 1986",NA
+Aotus_azarae,Primates,20.7,1230,"Isler & van Schaik, 2012",NA
+Aotus_lemurinus,Primates,113.5,9026.5,"Boddy et al., 2012",NA
+Aotus_nancymaae,Primates,17.89,787,"van Woerden et al., 2010; Heldstab et al., 2018",NA
+Aotus_trivirgatus,Primates,16.04,701.68,"Boddy et al., 2012",NA
+Aotus_vociferans,Primates,17.7,703,"van Woerden et al., 2010; Isler et al., 2008",NA
+Aplodontia_rufa,Rodentia,7.04,806,"Boddy et al., 2012",NA
+Apodemus_agrarius,Rodentia,0.2,33.3,"Boddy et al., 2012",NA
+Apodemus_flavicollis,Rodentia,0.7,32.3,"Boddy et al., 2012",NA
+Apodemus_sylvaticus,Rodentia,0.59,20.1,"Boddy et al., 2012",NA
+Arctictis_binturong,Carnivora,40.85,11470,"Gittleman, 1986",NA
+Arctocebus_aureus,Primates,5.88,210,"Isler et al., 2008",NA
+Arctocebus_calabarensis,Primates,6.92,309,"Isler et al., 2008",NA
+Arctocephalus_australis,Carnivora,307.5,103750,"Boddy et al., 2012",NA
+Arctocephalus_forsteri,Carnivora,320,109690,"Boddy et al., 2012",NA
+Arctocephalus_galapagoensis,Carnivora,291.25,45950,"Boddy et al., 2012",NA
+Arctocephalus_gazella,Carnivora,340,96600,"Boddy et al., 2012",NA
+Arctocephalus_philippii,Carnivora,415,140000,"Boddy et al., 2012",NA
+Arctocephalus_pusillus,Carnivora,369.38,178750,"Boddy et al., 2012",NA
+Arctocephalus_tropicalis,Carnivora,326.25,101250,"Boddy et al., 2012",NA
+Arctogalidia_trivirgata,Carnivora,21.98,2460,"Gittleman, 1986",NA
+Arctonyx_collaris,Carnivora,49.4,10490,"Isler & van Schaik, 2012",NA
+Ardops_nichollsi,Chiroptera,0.61,15,"Jones & MacLarnon, 2004",NA
+Arielulus_circumdatus,Chiroptera,0.23,10.4,"Jones & MacLarnon, 2004",NA
+Ariteus_flavescens,Chiroptera,0.43,11.9,"Shi et al., 2018","Faurby et al., 2018"
+Artibeus_concolor,Chiroptera,0.63,19.4,"Jones & MacLarnon, 2004",NA
+Artibeus_fimbriatus,Chiroptera,1.11,63.9,"Shi et al., 2018","Faurby et al., 2018"
+Artibeus_fraterculus,Chiroptera,0.8,39.5,"Shi et al., 2018","Faurby et al., 2018"
+Artibeus_hirsutus,Chiroptera,0.5,38.7,"Shi et al., 2018","Faurby et al., 2018"
+Artibeus_jamaicensis,Chiroptera,0.98,39.33,"Jones & MacLarnon, 2004",NA
+Artibeus_lituratus,Chiroptera,1.17,56.73,"Jones & MacLarnon, 2004",NA
+Artibeus_planirostris,Chiroptera,1.14,47,"Shi et al., 2018","Faurby et al., 2018"
+Arvicanthis_niloticus,Rodentia,1.33,84.5,"Boddy et al., 2012",NA
+Arvicola_amphibius,Rodentia,1.64,168.3,"Boddy et al., 2012",NA
+Asellia_tridens,Chiroptera,0.24,12.8,"Jones & MacLarnon, 2004",NA
+Aselliscus_stoliczkanus,Chiroptera,0.15,4.9,"Jones & MacLarnon, 2004",NA
+Aselliscus_tricuspidatus,Chiroptera,0.13,4.4,"Jones & MacLarnon, 2004",NA
+Atelerix_albiventris,Eulipotyphla,2.24,280,"Boddy et al., 2012",NA
+Atelerix_algirus,Eulipotyphla,3.2,790,"Boddy et al., 2012",NA
+Ateles_belzebuth,Primates,112.7,8484,"Isler & van Schaik, 2012",NA
+Ateles_chamek,Primates,99,9370,"Isler et al., 2008",NA
+Ateles_fusciceps,Primates,113.6,9026.5,"Boddy et al., 2012",NA
+Ateles_geoffroyi,Primates,104.96,5774,"Boddy et al., 2012",NA
+Ateles_hybridus,Primates,103.05,7862.25,"Isler et al., 2008",NA
+Ateles_marginatus,Primates,97,3201,"Burger et al., 2019",NA
+Ateles_paniscus,Primates,108.96,3430,"Boddy et al., 2012",NA
+Atelocynus_microtis,Carnivora,62.18,9030,"Gittleman, 1986",NA
+Atherurus_africanus,Rodentia,21.89,3152.5,"Boddy et al., 2012",NA
+Atherurus_macrourus,Rodentia,31.57,2000,"Stankowich & Romero, 2017",NA
+Atilax_paludinosus,Carnivora,28.5,3670,"Gittleman, 1986",NA
+Avahi_laniger,Primates,10.49,1285,"Boddy et al., 2012",NA
+Avahi_occidentalis,Primates,7.95,801.4,"Isler et al., 2008",NA
+Axis_axis,Artiodactyla,219,88450,"Boddy et al., 2012",NA
+Axis_porcinus,Artiodactyla,142,30000,"Isler & van Schaik, 2012",NA
+Babyrousa_babyrussa,Artiodactyla,127,78000,"Isler & van Schaik, 2012",NA
+Balaena_mysticetus,Cetacea,2738,90999999.93,"Montgomery et al., 2013",NA
+Balaenoptera_acutorostrata,Cetacea,2850,5587093.59,"Patzke et al., 2013;Jones et al ., 2009",NA
+Balaenoptera_borealis,Cetacea,4900,36666666.67,"Boddy et al., 2012",NA
+Balaenoptera_musculus,Cetacea,3636,50903999.97,"Montgomery et al., 2013",NA
+Balaenoptera_physalus,Cetacea,5100,62500000,"Boddy et al., 2012",NA
+Balantiopteryx_plicata,Chiroptera,0.15,6.4,"Shi et al., 2018","Faurby et al., 2018"
+Balionycteris_maculata,Chiroptera,0.51,14.33,"Jones & MacLarnon, 2004",NA
+Barbastella_barbastellus,Chiroptera,0.18,6,"Jones & MacLarnon, 2004",NA
+Bassaricyon_alleni,Carnivora,19.37,1235,"Stankowich & Romero, 2017",NA
+Bassaricyon_gabbii,Carnivora,19.3,1250,"Patzke et al., 2013; Jones et al., 2009",NA
+Bassariscus_astutus,Carnivora,16,985,"Isler & van Schaik, 2012",NA
+Bassariscus_sumichrasti,Carnivora,41.9,2722,"Boddy et al., 2012",NA
+Bathyergus_suillus,Rodentia,3.75,1175,"Boddy et al., 2012",NA
+Bdeogale_crassicauda,Carnivora,16.95,1250,"Gittleman, 1986",NA
+Beamys_hindei,Rodentia,1.11,89.75,"Boddy et al., 2012",NA
+Berardius_bairdii,Cetacea,5284.62,11380000,"Ridway et al., 2017; Faurby et al., 2018",NA
+Berylmys_bowersi,Rodentia,4.63,360.7,"Isler & van Schaik, 2009",NA
+Bettongia_gaimardi,Diprotodontia,11.7,1660,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Bettongia_lesueur,Diprotodontia,10.5,1300,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Bettongia_penicillata,Diprotodontia,9.56,1300,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Bettongia_tropica,Diprotodontia,8.92,1200,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Bison_bison,Artiodactyla,458,431500,"Isler & van Schaik, 2012",NA
+Blarina_brevicauda,Eulipotyphla,0.29,17.7,"Boddy et al., 2012",NA
+Bos_mutus,Artiodactyla,334,250000,"Perez-Barberia et al., 2007; Shultz & Dunbar, 2006",NA
+Boselaphus_tragocamelus,Artiodactyla,271.75,125000,"Boddy et al., 2012",NA
+Brachylagus_idahoensis,Lagomorpha,3.5,431.19,"Heldstab et al., 2018",NA
+Brachyphylla_cavernarum,Chiroptera,1.28,46.75,"Jones & MacLarnon, 2004",NA
+Brachyteles_arachnoides,Primates,119.4,8840,"Kirk, 2006",NA
+Bradypus_tridactylus,Xenarthra,24.9,4097,"Boddy et al., 2012",NA
+Bradypus_variegatus,Xenarthra,16.03,3263,"Boddy et al., 2012",NA
+Burramys_parvus,Diprotodontia,1,41.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Cabassous_unicinctus,Xenarthra,23.68,3930,"Boddy et al., 2012",NA
+Cacajao_calvus,Primates,74.3,2880,"Isler & van Schaik, 2012",NA
+Caenolestes_fuliginosus,Paucituberculata,0.68,35,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Callicebus_caligatus,Primates,17.25,880,"Isler et al., 2008",NA
+Callicebus_cupreus,Primates,17.1,815,"Isler & van Schaik, 2012",NA
+Callicebus_lugens,Primates,18.97,1090,"Isler et al., 2008",NA
+Callicebus_medemi,Primates,19.44,1156.75,"Isler et al., 2008",NA
+Callicebus_moloch,Primates,19,900,"Boddy et al., 2012",NA
+Callicebus_regulus,Primates,23,1129.79,"Isler et al., 2008",NA
+Callicebus_torquatus,Primates,19.1,980,"Isler & van Schaik, 2012",NA
+Callimico_goeldii,Primates,11.4,484,"Isler & van Schaik, 2012",NA
+Callithrix_aurita,Primates,7.2,429,"Isler et al., 2008",NA
+Callithrix_geoffroyi,Primates,19.9,793,"Marino, 1998",NA
+Callithrix_jacchus,Primates,7.73,347.45,"Boddy et al., 2012",NA
+Callithrix_kuhlii,Primates,7.97,373.33,"van Woerden et al., 2010",NA
+Callithrix_penicillata,Primates,7.3,328,"Isler & van Schaik, 2012",NA
+Callorhinus_ursinus,Carnivora,334.83,150916.67,"Boddy et al., 2012",NA
+Callosciurus_caniceps,Rodentia,6.02,240,"Boddy et al., 2012",NA
+Callosciurus_nigrovittatus,Rodentia,4.44,202,"Boddy et al., 2012",NA
+Callosciurus_notatus,Rodentia,4.91,209.5,"Boddy et al., 2012",NA
+Callosciurus_prevostii,Rodentia,6.52,439,"Boddy et al., 2012",NA
+Callospermophilus_lateralis,Rodentia,3.06,168.85,"Mateju, 2016",NA
+Callospermophilus_madrensis,Rodentia,2.72,151.5,"Mateju, 2016",NA
+Callospermophilus_saturatus,Rodentia,3.38,242.7,"Mateju, 2016",NA
+Caluromys_derbianus,Didelphimorphia,3.4,318,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Caluromys_lanatus,Didelphimorphia,3.1,384,"Boddy et al., 2012",NA
+Caluromys_philander,Didelphimorphia,3.5,188.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Camelus_dromedarius,Artiodactyla,762,400000,"Isler & van Schaik, 2012",NA
+Camelus_ferus,Artiodactyla,575,400000,"Perez-Barberia et al., 2007; Shultz & Dunbar, 2006",NA
+Canis_adustus,Carnivora,50.8,6155,"Perez-Barbería et al., 2007",NA
+Canis_aureus,Carnivora,72.2,7150,"Isler & van Schaik, 2012",NA
+Canis_latrans,Carnivora,84.5,9760,"Isler & van Schaik, 2012",NA
+Canis_lupus,Carnivora,130,31100,"Isler & van Schaik, 2012",NA
+Canis_mesomelas,Carnivora,54.8,8000,"Boddy et al., 2012",NA
+Canis_simensis,Carnivora,83.57,10000,"Finarelli & Flynn, 2009",NA
+Capra_aegagrus,Artiodactyla,115,27660,"Isler & van Schaik, 2012",NA
+Capreolus_capreolus,Artiodactyla,92.7,17472,"Isler & van Schaik, 2012",NA
+Capromys_pilorides,Rodentia,15.97,3090,Scan,"Faurby et al., 2018"
+Caracal_aurata,Carnivora,57.97,11940,"Finarelli & Flynn, 2009",NA
+Caracal_caracal,Carnivora,51.9,7690,"Perez-Barbería et al., 2007",NA
+Cardioderma_cor,Chiroptera,0.67,25.5,"Jones & MacLarnon, 2004",NA
+Carollia_castanea,Chiroptera,0.45,12.55,"Jones & MacLarnon, 2004",NA
+Carollia_perspicillata,Chiroptera,0.51,17.07,"Jones & MacLarnon, 2004",NA
+Casinycteris_argynnis,Chiroptera,0.86,30.72,"Jones & MacLarnon, 2004",NA
+Castor_canadensis,Rodentia,52.21,27670,"Boddy et al., 2012",NA
+Castor_fiber,Rodentia,44.98,16943.38,"Barton & Capellini, 2011",NA
+Catopuma_temminckii,Carnivora,68.03,4220,"Gittleman, 1986",NA
+Cavia_aperea,Rodentia,4.04,306.45,"Boddy et al., 2012",NA
+Cebuella_pygmaea,Primates,4.64,134.75,"Boddy et al., 2012",NA
+Cebus_albifrons,Primates,62.95,1620,"Boddy et al., 2012",NA
+Cebus_capucinus,Primates,70.14,2104.88,"Boddy et al., 2012",NA
+Cephalophus_dorsalis,Artiodactyla,92.9,19998.62,"Barton & Capellini, 2011",NA
+Cephalophus_leucogaster,Artiodactyla,93,13000,"Perez-Barbería et al., 2007",NA
+Cephalophus_natalensis,Artiodactyla,84.1,12500,"Perez-Barbería et al., 2007",NA
+Cephalophus_nigrifrons,Artiodactyla,85,13650,"Perez-Barbería et al., 2007",NA
+Cephalophus_silvicultor,Artiodactyla,170,43000,"Isler & van Schaik, 2012",NA
+Cephalophus_zebra,Artiodactyla,83,10000,"Isler & van Schaik, 2012",NA
+Cephalorhynchus_commersonii,Cetacea,725,48000,"Montgomery et al., 2013",NA
+Cephalorhynchus_heavisidii,Cetacea,763,71000,"Montgomery et al., 2013",NA
+Cephalorhynchus_hectori,Cetacea,644,50000,"Slooten & Dawson, 1994; Faurby et al., 2018",NA
+Ceratotherium_simum,Perissodactyla,643,1400000,"Perez-Barbería et al., 2007",NA
+Cercartetus_caudatus,Diprotodontia,0.71,30,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Cercartetus_concinnus,Diprotodontia,0.3,13,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Cercartetus_lepidus,Diprotodontia,0.36,7,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Cercartetus_nanus,Diprotodontia,0.43,24,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Cercocebus_agilis,Primates,95.3,4700,"Boddy et al., 2012",NA
+Cercocebus_atys,Primates,86.8,6200,"Isler & van Schaik, 2012",NA
+Cercocebus_galeritus,Primates,99.07,7435,"Isler et al., 2008",NA
+Cercocebus_torquatus,Primates,105.99,7485,"Isler et al., 2008",NA
+Cercopithecus_ascanius,Primates,54.9,2901,"Isler & van Schaik, 2012",NA
+Cercopithecus_campbelli,Primates,54.4,2700,"Isler & van Schaik, 2012",NA
+Cercopithecus_cephus,Primates,76,3508.33,"Boddy et al., 2012",NA
+Cercopithecus_diana,Primates,55.2,3900,"Isler & van Schaik, 2012",NA
+Cercopithecus_erythrotis,Primates,65.4,3250,"Isler et al., 2008",NA
+Cercopithecus_hamlyni,Primates,65.9,4425,"Isler et al., 2008",NA
+Cercopithecus_lowei,Primates,51.2,2097,"Isler & van Schaik, 2012",NA
+Cercopithecus_mitis,Primates,75,6300,"Boddy et al., 2012",NA
+Cercopithecus_mona,Primates,67,3001,"Boddy et al., 2012",NA
+Cercopithecus_neglectus,Primates,60.9,4130,"Isler & van Schaik, 2012",NA
+Cercopithecus_nictitans,Primates,71.13,5465,"Isler et al., 2008",NA
+Cercopithecus_petaurista,Primates,55.08,3609.09,"Isler et al., 2008",NA
+Cerdocyon_thous,Carnivora,49.5,5600,"Perez-Barbería et al., 2007",NA
+Cervus_elaphus,Artiodactyla,409.3,200000,"Boddy et al., 2012",NA
+Cervus_nippon,Artiodactyla,200,46000,"Perez-Barbería et al., 2007",NA
+Chaerephon_chapini,Chiroptera,0.17,10,"Shi et al., 2018","Faurby et al., 2018"
+Chaerephon_jobensis,Chiroptera,0.36,16.5,"Jones & MacLarnon, 2004",NA
+Chaerephon_plicatus,Chiroptera,0.39,20.5,"Jones & MacLarnon, 2004",NA
+Chaerephon_pumilus,Chiroptera,0.27,12.09,"Jones & MacLarnon, 2004",NA
+Chaetodipus_baileyi,Rodentia,0.7,29.75,"Boddy et al., 2012",NA
+Chaetodipus_californicus,Rodentia,0.62,26,"Boddy et al., 2012",NA
+Chaetodipus_fallax,Rodentia,0.54,20.3,"Boddy et al., 2012",NA
+Chaetodipus_formosus,Rodentia,0.49,18.1,"Boddy et al., 2012",NA
+Chaetodipus_hispidus,Rodentia,0.68,37.1,"Boddy et al., 2012",NA
+Chaetodipus_penicillatus,Rodentia,0.46,16.25,"Boddy et al., 2012",NA
+Chaetodipus_spinatus,Rodentia,0.48,19.1,"Boddy et al., 2012",NA
+Chaetophractus_villosus,Xenarthra,16.4,2948,"Stankowich & Romero, 2017",NA
+Chalinolobus_dwyeri,Chiroptera,0.14,5.5,"Jones & MacLarnon, 2004",NA
+Chalinolobus_gouldii,Chiroptera,0.24,11.7,"Jones & MacLarnon, 2004",NA
+Chalinolobus_morio,Chiroptera,0.18,8.35,"Jones & MacLarnon, 2004",NA
+Cheirogaleus_major,Primates,6.8,450,"Boddy et al., 2012",NA
+Cheirogaleus_medius,Primates,3.34,179.67,"Boddy et al., 2012",NA
+Cheirogaleus_sibreei,Primates,4.4,420.11,"Isler et al., 2008",NA
+Cheiromeles_torquatus,Chiroptera,1.37,168.5,"Jones & MacLarnon, 2004",NA
+Chilonatalus_micropus,Chiroptera,0.12,3.5,"Shi et al., 2018","Faurby et al., 2018"
+Chinchilla_lanigera,Rodentia,6.8,372,"Isler & van Schaik, 2012",NA
+Chiroderma_salvini,Chiroptera,0.79,24.3,"Jones & MacLarnon, 2004",NA
+Chiroderma_trinitatum,Chiroptera,0.54,13.7,"Jones & MacLarnon, 2004",NA
+Chiroderma_villosum,Chiroptera,0.71,24.8,"Jones & MacLarnon, 2004",NA
+Chironax_melanocephalus,Chiroptera,0.61,17.63,"Jones & MacLarnon, 2004",NA
+Chironectes_minimus,Didelphimorphia,5.54,764,"Stankowich & Romero, 2017",NA
+Chiropodomys_gliroides,Rodentia,0.7,25.3,"Boddy et al., 2012",NA
+Chiropotes_albinasus,Primates,57.64,2846.5,"van Woerden et al., 2010; Heldstab et al., 2018",NA
+Chiropotes_chiropotes,Primates,57.04,2740,"Isler et al., 2008",NA
+Chiropotes_satanas,Primates,48.33,3030,"Isler et al., 2008",NA
+Chlorocebus_aethiops,Primates,64.13,3452.67,"Boddy et al., 2012",NA
+Chlorocebus_cynosuros,Primates,72,2920,"Burger et al., 2019",NA
+Chlorocebus_pygerythrus,Primates,62.58,4323.52,"Isler et al., 2008",NA
+Chlorocebus_sabaeus,Primates,64.91,4311.8,"Isler et al., 2008",NA
+Choeroniscus_godmani,Chiroptera,0.34,6.1,"Jones & MacLarnon, 2004",NA
+Choeroniscus_minor,Chiroptera,0.39,9.6,"Jones & MacLarnon, 2004",NA
+Choeropsis_liberiensis,Artiodactyla,215,81000,"Perez-Barbería et al., 2007",NA
+Choloepus_didactylus,Xenarthra,28.2,5070,"Boddy et al., 2012",NA
+Choloepus_hoffmanni,Xenarthra,24.54,5048,"Boddy et al., 2012",NA
+Chrotogale_owstoni,Carnivora,22.5,1960,"Heldstab et al., 2018",NA
+Chrotopterus_auritus,Chiroptera,1.74,87,"Stankowich & Romero, 2017",NA
+Chrysochloris_asiatica,Afrosoricida,0.7,49,"Boddy et al., 2012",NA
+Chrysochloris_stuhlmanni,Afrosoricida,1.06,50.05,"Boddy et al., 2012",NA
+Chrysocyon_brachyurus,Carnivora,120.3,23250,"Isler & van Schaik, 2012",NA
+Civettictis_civetta,Carnivora,37,11250,"Isler & van Schaik, 2012",NA
+Clyomys_laticeps,Rodentia,3.52,201,"Stankowich & Romero, 2017",NA
+Coendou_prehensilis,Rodentia,16.73,4400,"Stankowich & Romero, 2017",NA
+Coendou_quichua,Rodentia,20.85,2000,"Stankowich & Romero, 2017",NA
+Coendou_spinosus,Rodentia,11.66,750.8,Scan,"Faurby et al., 2018"
+Coendou_vestitus,Rodentia,11.71,736,"Stankowich & Romero, 2017",NA
+Coleura_afra,Chiroptera,0.26,11.5,"Jones & MacLarnon, 2004",NA
+Colobus_angolensis,Primates,74.4,9670,"Boddy et al., 2012",NA
+Colobus_guereza,Primates,83.9,10281.25,"Boddy et al., 2012",NA
+Colobus_polykomos,Primates,70.2,8300,"Isler & van Schaik, 2012",NA
+Colobus_satanas,Primates,74.9,8910,"Isler et al., 2008",NA
+Colobus_vellerosus,Primates,73.07,7820,"Isler et al., 2008",NA
+Condylura_cristata,Eulipotyphla,1.37,50,"Boddy et al., 2012",NA
+Conepatus_chinga,Carnivora,18.7,1587,"Perez-Barbería et al., 2007",NA
+Conepatus_humboldtii,Carnivora,12.6,1294,"Perez-Barbería et al., 2007",NA
+Conepatus_leuconotus,Carnivora,14.4,2010,"Isler & van Schaik, 2012",NA
+Conepatus_semistriatus,Carnivora,19.6,2040,"Finarelli & Flynn, 2009",NA
+Conilurus_penicillatus,Rodentia,1.91,150,"Isler & van Schaik, 2009",NA
+Connochaetes_gnou,Artiodactyla,340,155000,"Heldstab et al., 2018",NA
+Connochaetes_taurinus,Artiodactyla,443,212230,"Boddy et al., 2012",NA
+Cormura_brevirostris,Chiroptera,0.22,8.2,"Jones & MacLarnon, 2004",NA
+Corynorhinus_rafinesquii,Chiroptera,0.24,9.1,"Shi et al., 2018","Faurby et al., 2018"
+Corynorhinus_townsendii,Chiroptera,0.23,9.9,"Shi et al., 2018","Faurby et al., 2018"
+Craseonycteris_thonglongyai,Chiroptera,0.09,2.56,"Jones & MacLarnon, 2004",NA
+Cratogeomys_fumosus,Rodentia,4.19,637,"Boddy et al., 2012",NA
+Cremnomys_cutchicus,Rodentia,1.67,50,"Mace et al., 1981",NA
+Cricetomys_emini,Rodentia,5.58,1300,"Isler & van Schaik, 2009",NA
+Cricetomys_gambianus,Rodentia,6.57,1150,"Boddy et al., 2012",NA
+Cricetulus_barabensis,Rodentia,0.67,29.89,"Barton & Capellini, 2011",NA
+Cricetus_cricetus,Rodentia,2.2,297,"Boddy et al., 2012",NA
+Crocidura_fuscomurina,Eulipotyphla,0.13,5.6,"Boddy et al., 2012",NA
+Crocidura_hildegardeae,Eulipotyphla,0.21,8.72,"Heldstab et al., 2018",NA
+Crocidura_olivieri,Eulipotyphla,0.44,22,"Heldstab et al., 2018",NA
+Crocidura_russula,Eulipotyphla,0.19,10.45,"Boddy et al., 2012",NA
+Crocuta_crocuta,Carnivora,175,62370,"Boddy et al., 2012",NA
+Crossarchus_obscurus,Carnivora,9.99,865,"Perez-Barbería et al., 2007",NA
+Cryptomys_hottentotus,Rodentia,1.17,98.4,"Boddy et al., 2012",NA
+Cryptoprocta_ferox,Carnivora,32.1,6775,"Isler & van Schaik, 2012",NA
+Cryptotis_parva,Eulipotyphla,0.12,5.3,"Boddy et al., 2012",NA
+Ctenomys_magellanicus,Rodentia,3.31,272,Scan,"Faurby et al., 2018"
+Ctenomys_opimus,Rodentia,3.36,3070.5,Scan,"Faurby et al., 2018"
+Cuniculus_paca,Rodentia,35.22,4607,"Boddy et al., 2012",NA
+Cuon_alpinus,Carnivora,94.6,13800,"Isler & van Schaik, 2012",NA
+Cyclopes_didactylus,Xenarthra,4.29,400,"Stankowich & Romero, 2017",NA
+Cynictis_penicillata,Carnivora,10.5,571,"Isler & van Schaik, 2012",NA
+Cynogale_bennettii,Carnivora,29.96,4010,"Gittleman, 1986",NA
+Cynomops_abrasus,Chiroptera,0.42,33.3,"Jones & MacLarnon, 2004",NA
+Cynomops_greenhalli,Chiroptera,0.3,17.5,"Jones & MacLarnon, 2004",NA
+Cynomops_paranus,Chiroptera,0.24,16.2,"Shi et al., 2018","Faurby et al., 2018"
+Cynomops_planirostris,Chiroptera,0.19,7.25,"Jones & MacLarnon, 2004",NA
+Cynomys_gunnisoni,Rodentia,5.14,642.3,"Mateju, 2016",NA
+Cynomys_leucurus,Rodentia,5.77,1021.15,"Mateju, 2016",NA
+Cynomys_ludovicianus,Rodentia,5.69,865.15,"Mateju, 2016",NA
+Cynomys_mexicanus,Rodentia,5.53,998,"Mateju, 2016",NA
+Cynomys_parvidens,Rodentia,5.58,576,"Mateju, 2016",NA
+Cynopterus_brachyotis,Chiroptera,0.95,32.11,"Jones & MacLarnon, 2004",NA
+Cynopterus_horsfieldii,Chiroptera,1.35,56.88,"Jones & MacLarnon, 2004",NA
+Cynopterus_sphinx,Chiroptera,1.06,42.4,"Jones & MacLarnon, 2004",NA
+Cynopterus_titthaecheilus,Chiroptera,1.4,56.3,"Shi et al., 2018","Faurby et al., 2018"
+Cystophora_cristata,Carnivora,455,282840,"Boddy et al., 2012",NA
+Cyttarops_alecto,Chiroptera,0.18,5.3,"Jones & MacLarnon, 2004",NA
+Dacnomys_millardi,Rodentia,2.68,179.4,Scan,"Faurby et al., 2018"
+Dactylomys_dactylinus,Rodentia,5.37,650,Scan,"Faurby et al., 2018"
+Dactylonax_palpator,Diprotodontia,6.91,435,"Burger et al., 2019",NA
+Dactylopsila_tatei,Diprotodontia,4.45,252,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dactylopsila_trivirgata,Diprotodontia,5.83,423,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dama_dama,Artiodactyla,224.5,37195,"Isler & van Schaik, 2012",NA
+Damaliscus_lunatus,Artiodactyla,290.6,111000,"Isler & van Schaik, 2012",NA
+Damaliscus_pygargus,Artiodactyla,254.6,62500,"Boddy et al., 2012",NA
+Dasycercus_cristicauda,Dasyuromorphia,1.24,90,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasykaluta_rosamondae,Dasyuromorphia,0.54,35,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasymys_rufulus,Rodentia,1.06,88.3,Scan,"Faurby et al., 2018"
+Dasyprocta_azarae,Rodentia,18.25,2976.81,"Heldstab et al., 2018",NA
+Dasyprocta_leporina,Rodentia,21.26,2873,"Boddy et al., 2012",NA
+Dasyprocta_prymnolopha,Rodentia,21.62,2900,"Burger et al., 2019",NA
+Dasyprocta_punctata,Rodentia,18.34,3172,"Boddy et al., 2012",NA
+Dasyprocta_variegata,Rodentia,23.46,4100,Scan,"Faurby et al., 2018"
+Dasypus_novemcinctus,Xenarthra,8.5,2743.5,"Boddy et al., 2012",NA
+Dasyuroides_byrnei,Dasyuromorphia,1.5,110,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasyurus_albopunctatus,Dasyuromorphia,3.79,627,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasyurus_geoffroii,Dasyuromorphia,5.17,1100,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasyurus_hallucatus,Dasyuromorphia,3.38,525,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasyurus_maculatus,Dasyuromorphia,9.41,5500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dasyurus_spartacus,Dasyuromorphia,5.3,487,"Ashwell, 2008",NA
+Dasyurus_viverrinus,Dasyuromorphia,5.33,1090,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Daubentonia_madagascariensis,Primates,45.15,2800,"Boddy et al., 2012",NA
+Delphinapterus_leucas,Cetacea,1921,498250,"Boddy et al., 2012",NA
+Delphinus_delphis,Cetacea,797.26,65086.96,"Boddy et al., 2012",NA
+Dendrohyrax_arboreus,Hyracoidea,12.3,2950,"Burger et al., 2019",NA
+Dendrolagus_bennettianus,Diprotodontia,18.5,10950,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_dorianus,Diprotodontia,32.3,9550,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_goodfellowi,Diprotodontia,28.4,7500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_inustus,Diprotodontia,30.1,13450,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_lumholtzi,Diprotodontia,26.2,7195,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_matschiei,Diprotodontia,27.5,8800,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_scottae,Diprotodontia,29.2,10500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_spadix,Diprotodontia,28.5,9100,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendrolagus_ursinus,Diprotodontia,26.3,8200,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dendromus_mesomelas,Rodentia,0.49,11.3,"Isler & van Schaik, 2009",NA
+Deomys_ferrugineus,Rodentia,1.18,51.8,"Isler & van Schaik, 2009",NA
+Dermanura_anderseni,Chiroptera,0.49,138,"Shi et al., 2018","Faurby et al., 2018"
+Dermanura_cinerea,Chiroptera,0.47,12.4,"Jones & MacLarnon, 2004",NA
+Dermanura_glauca,Chiroptera,0.48,12.2,"Jones & MacLarnon, 2004",NA
+Dermanura_phaeotis,Chiroptera,0.45,11.8,"Shi et al., 2018","Faurby et al., 2018"
+Dermanura_tolteca,Chiroptera,0.54,16.45,"Jones & MacLarnon, 2004",NA
+Desmana_moschata,Eulipotyphla,4,440,"Boddy et al., 2012",NA
+Desmodillus_auricularis,Rodentia,0.95,52.3,"Isler & van Schaik, 2009",NA
+Desmodus_rotundus,Chiroptera,0.92,33.26,"Jones & MacLarnon, 2004",NA
+Diaemus_youngi,Chiroptera,0.97,34.67,"Jones & MacLarnon, 2004",NA
+Diceros_bicornis,Perissodactyla,655,765450,"Isler & van Schaik, 2012",NA
+Dicrostonyx_groenlandicus,Rodentia,0.72,68.4,"Boddy et al., 2012",NA
+Dicrostonyx_richardsoni,Rodentia,0.9,52.1,"Boddy et al., 2012",NA
+Dicrostonyx_torquatus,Rodentia,0.84,73,"Boddy et al., 2012",NA
+Didelphis_marsupialis,Didelphimorphia,6.35,1620,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Didelphis_virginiana,Didelphimorphia,6.72,1900,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dinomys_branickii,Rodentia,26.95,14000,"Boddy et al., 2012",NA
+Diphylla_ecaudata,Chiroptera,0.8,31.05,"Jones & MacLarnon, 2004",NA
+Dipodomys_agilis,Rodentia,1.34,61.4,"Boddy et al., 2012",NA
+Dipodomys_deserti,Rodentia,1.74,122.45,"Boddy et al., 2012",NA
+Dipodomys_heermanni,Rodentia,1.44,65.65,"Boddy et al., 2012",NA
+Dipodomys_merriami,Rodentia,1.1,39.4,"Boddy et al., 2012",NA
+Dipodomys_microps,Rodentia,1.22,62.8,"Boddy et al., 2012",NA
+Dipodomys_ordii,Rodentia,1.45,57.1,"Boddy et al., 2012",NA
+Dipodomys_panamintinus,Rodentia,1.6,74,"Boddy et al., 2012",NA
+Dipodomys_spectabilis,Rodentia,1.93,144.55,"Boddy et al., 2012",NA
+Distoechurus_pennatus,Diprotodontia,0.94,50,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dobsonia_exoleta,Chiroptera,4.05,249,Scan,"Faurby et al., 2018"
+Dobsonia_inermis,Chiroptera,2.7,149.5,"Jones & MacLarnon, 2004",NA
+Dobsonia_minor,Chiroptera,1.74,78.2,"Shi et al., 2018","Faurby et al., 2018"
+Dobsonia_moluccensis,Chiroptera,4.43,325,"Jones & MacLarnon, 2004",NA
+Dobsonia_pannietensis,Chiroptera,1.28,267.7,"Shi et al., 2018","Faurby et al., 2018"
+Dobsonia_peronii,Chiroptera,3.7,216.9,Scan,"Faurby et al., 2018"
+Dobsonia_praedatrix,Chiroptera,2.97,190.52,"Jones & MacLarnon, 2004",NA
+Dolichotis_patagonum,Rodentia,30.5,8000,"Boddy et al., 2012",NA
+Dolichotis_salinicola,Rodentia,15.31,1600,"Burger et al., 2019",NA
+Dorcopsis_atrata,Diprotodontia,16.7,2050,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dorcopsis_hageni,Diprotodontia,22.5,5500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dorcopsis_luctuosa,Diprotodontia,20.6,6350,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dorcopsis_muelleri,Diprotodontia,20.4,3150,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dorcopsulus_macleayi,Diprotodontia,13.5,2988,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dorcopsulus_vanheurni,Diprotodontia,11.8,1696.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dremomys_rufigenis,Rodentia,5.41,240,"Boddy et al., 2012",NA
+Dromiciops_gliroides,Microbiotheria,0.81,24,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Dugong_dugon,Sirenia,264.67,281000,"Burger et al., 2019",NA
+Echimys_chrysurus,Rodentia,5.02,652,"Stankowich & Romero, 2017",NA
+Echinops_telfairi,Afrosoricida,0.62,87.5,"Boddy et al., 2012",NA
+Echinosorex_gymnura,Eulipotyphla,5.5,957,"Stankowich & Romero, 2017",NA
+Echymipera_clara,Peramelemorphia,4.48,1236.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Echymipera_kalubu,Peramelemorphia,3.67,950,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Echymipera_rufescens,Peramelemorphia,3.73,1700,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Eidolon_helvum,Chiroptera,4.43,266.75,"Jones & MacLarnon, 2004",NA
+Eira_barbara,Carnivora,47.05,2668,"Perez-Barbería et al., 2007",NA
+Elephantulus_fuscipes,Macroscelidea,1.33,57,"Boddy et al., 2012",NA
+Elephantulus_intufi,Macroscelidea,1.14,49.55,"Barton & Capellini, 2011",NA
+Elephantulus_myurus,Macroscelidea,1.37,54.58,"Barton & Capellini, 2011",NA
+Elephas_maximus,Proboscidea,5211.25,2765457.5,"Boddy et al., 2012",NA
+Ellobius_fuscocapillus,Rodentia,1.07,80,Scan,"Faurby et al., 2018"
+Emballonura_monticola,Chiroptera,0.16,5.4,"Jones & MacLarnon, 2004",NA
+Emballonura_raffrayana,Chiroptera,0.17,5.9,"Jones & MacLarnon, 2004",NA
+Emballonura_semicaudata,Chiroptera,0.18,7,"Jones & MacLarnon, 2004",NA
+Enchisthenes_hartii,Chiroptera,0.51,16.1,"Pitnick et al., 2006",NA
+Enhydra_lutris,Carnivora,119,23600,"Isler & van Schaik, 2012",NA
+Eonycteris_robusta,Chiroptera,1.35,77.5,"Shi et al., 2018","Faurby et al., 2018"
+Eonycteris_spelaea,Chiroptera,1.26,54.86,"Jones & MacLarnon, 2004",NA
+Epomophorus_crypturus,Chiroptera,1.68,111.1,Scan,NA
+Epomophorus_gambianus,Chiroptera,4.33,309,"Jones & MacLarnon, 2004",NA
+Epomophorus_labiatus,Chiroptera,1.59,64.1,"Jones & MacLarnon, 2004",NA
+Epomophorus_minor,Chiroptera,1.12,65.5,"Shi et al., 2018","Faurby et al., 2018"
+Epomophorus_wahlbergi,Chiroptera,1.96,81.51,"Jones & MacLarnon, 2004",NA
+Epomops_franqueti,Chiroptera,2.21,118.25,"Jones & MacLarnon, 2004",NA
+Eptesicus_brasiliensis,Chiroptera,0.2,9.03,"Jones & MacLarnon, 2004",NA
+Eptesicus_dimissus,Chiroptera,0.23,15,"Jones & MacLarnon, 2004",NA
+Eptesicus_furinalis,Chiroptera,0.19,7.6,"Jones & MacLarnon, 2004",NA
+Eptesicus_fuscus,Chiroptera,0.21,11.23,"Jones & MacLarnon, 2004",NA
+Eptesicus_pachyotis,Chiroptera,0.16,6.6,"Jones & MacLarnon, 2004",NA
+Eptesicus_serotinus,Chiroptera,0.33,22.15,"Jones & MacLarnon, 2004",NA
+Equus_africanus,Perissodactyla,434,234000,"Boddy et al., 2012",NA
+Equus_ferus,Perissodactyla,693,340722,"Shultz & Dunbar, 2010",NA
+Equus_quagga,Perissodactyla,612,250000,"Perez-Barbería et al., 2007",NA
+Equus_zebra,Perissodactyla,548,275885,"Isler & van Schaik, 2012",NA
+Erethizon_dorsatum,Rodentia,24.6,5397,"Boddy et al., 2012",NA
+Erignathus_barbatus,Carnivora,460,281000,"Boddy et al., 2012",NA
+Erinaceus_europaeus,Eulipotyphla,3.67,720.44,"Boddy et al., 2012",NA
+Erophylla_sezekorni,Chiroptera,0.59,15.8,"Shi et al., 2018","Faurby et al., 2018"
+Erythrocebus_patas,Primates,100.2,7376,"Boddy et al., 2012",NA
+Eschrichtius_robustus,Cetacea,4316.67,30000000.02,"Montgomery et al., 2013",NA
+Eubalaena_australis,Cetacea,2750,23000000,"Ridway et al., 2017; Faurby et al., 2018",NA
+Eudorcas_rufifrons,Artiodactyla,97.5,26000,"Heldstab et al., 2018",NA
+Eudorcas_thomsonii,Artiodactyla,91.8,24370,"Boddy et al., 2012",NA
+Eulemur_albifrons,Primates,21.45,2335.5,"Isler et al., 2008",NA
+Eulemur_cinereiceps,Primates,22.1,2140,"Isler et al., 2008",NA
+Eulemur_collaris,Primates,23.5,2454.96,"Heldstab et al., 2016; Heldstab et al., 2018",NA
+Eulemur_coronatus,Primates,20.65,1180,"Isler et al., 2008",NA
+Eulemur_fulvus,Primates,25.8,2292,"Isler & van Schaik, 2012",NA
+Eulemur_macaco,Primates,22.6,2086.17,"Boddy et al., 2012",NA
+Eulemur_mongoz,Primates,24.03,1559.33,"Boddy et al., 2012",NA
+Eulemur_rubriventer,Primates,24.9,1015,"Boddy et al., 2012",NA
+Eulemur_rufus,Primates,25.4,2220,"Isler et al., 2008",NA
+Eulemur_sanfordi,Primates,21.25,2094.17,"Heldstab et al., 2016; Heldstab et al., 2018",NA
+Eumetopias_jubatus,Carnivora,661.25,643775,"Boddy et al., 2012",NA
+Eumops_auripendulus,Chiroptera,0.61,33.8,"Jones & MacLarnon, 2004",NA
+Eumops_bonariensis,Chiroptera,0.33,11.9,"Shi et al., 2018","Faurby et al., 2018"
+Eumops_glaucinus,Chiroptera,0.66,36.85,"Jones & MacLarnon, 2004",NA
+Eumops_patagonicus,Chiroptera,0.26,10,"Shi et al., 2018","Faurby et al., 2018"
+Eumops_perotis,Chiroptera,0.8,47.5,"Jones & MacLarnon, 2004",NA
+Eumops_underwoodi,Chiroptera,0.84,54.7,"Shi et al., 2018","Faurby et al., 2018"
+Euoticus_elegantulus,Primates,5.53,274,"Isler et al., 2008",NA
+Euoticus_pallidus,Primates,5.19,300,"Isler et al., 2008",NA
+Euphractus_sexcinctus,Xenarthra,33.5,7990,"Boddy et al., 2012",NA
+Eupleres_goudotii,Carnivora,17,1850,"Isler & van Schaik, 2012",NA
+Euryzygomatomys_spinosus,Rodentia,3.4,187.5,Scan,"Faurby et al., 2018"
+Felis_chaus,Carnivora,37,5050,"Isler & van Schaik, 2012",NA
+Felis_nigripes,Carnivora,20.1,1100,"Isler & van Schaik, 2012",NA
+Felis_silvestris,Carnivora,35.5,4130,"Isler & van Schaik, 2012",NA
+Felovia_vae,Rodentia,2.31,186,"Isler & van Schaik, 2009; Heldstab et al., 2018",NA
+Feresa_attenuata,Cetacea,1144.25,170000,"Ridway et al., 2017; Faurby et al., 2018",NA
+Fossa_fossana,Carnivora,19.69,1500,"Finarelli & Flynn, 2009",NA
+Funambulus_pennantii,Rodentia,2.1,85.9,"Boddy et al., 2012",NA
+Funisciurus_anerythrus,Rodentia,4.14,218,"Boddy et al., 2012",NA
+Funisciurus_carruthersi,Rodentia,4.48,268,"Boddy et al., 2012",NA
+Funisciurus_pyrropus,Rodentia,4.38,200,"Boddy et al., 2012",NA
+Furipterus_horrens,Chiroptera,0.13,3.43,"Jones & MacLarnon, 2004",NA
+Galago_matschiei,Primates,4.62,209.5,"Isler et al., 2008",NA
+Galago_moholi,Primates,3.71,148.38,"Isler et al., 2008",NA
+Galago_senegalensis,Primates,5.9,300.33,"Boddy et al., 2012",NA
+Galagoides_demidoff,Primates,3.38,81,"Boddy et al., 2012",NA
+Galagoides_granti,Primates,4.07,181.85,"Isler et al., 2008",NA
+Galagoides_orinus,Primates,2.73,97,"Isler et al., 2008; Faurby et al., 2018",NA
+Galagoides_thomasi,Primates,3.12,116.5,"Isler et al., 2008",NA
+Galagoides_zanzibaricus,Primates,3.5,143,"Isler & van Schaik, 2012",NA
+Galea_musteloides,Rodentia,2.72,375,"Boddy et al., 2012",NA
+Galemys_pyrenaicus,Eulipotyphla,1.33,57.5,"Boddy et al., 2012",NA
+Galeopterus_variegatus,Dermoptera,7.16,1375,"Isler & van Schaik, 2009",NA
+Galictis_cuja,Carnivora,18.8,1190,"Perez-Barbería et al., 2007",NA
+Galictis_vittata,Carnivora,17.97,1328,"Perez-Barbería et al., 2007",NA
+Galidia_elegans,Carnivora,10.7,914,"Isler & van Schaik, 2012",NA
+Gazella_dorcas,Artiodactyla,70.8,17275,"Isler & van Schaik, 2012",NA
+Gazella_gazella,Artiodactyla,76.43,21306.83,"Heldstab et al., 2018",NA
+Genetta_angolensis,Carnivora,15.49,2100,"Gittleman, 1986",NA
+Genetta_genetta,Carnivora,14,1820,"Isler & van Schaik, 2012",NA
+Genetta_pardina,Carnivora,15.4,1032,"Burger et al., 2019",NA
+Genetta_servalina,Carnivora,16,1295,"Perez-Barbería et al., 2007",NA
+Genetta_tigrina,Carnivora,15.35,1525,"Boddy et al., 2012",NA
+Geocapromys_brownii,Rodentia,7.6,1500,Scan,"Faurby et al., 2018"
+Geocapromys_ingrahami,Rodentia,4.46,717.3,"Boddy et al., 2012",NA
+Geomys_breviceps,Rodentia,2.29,138.8,"Stankowich & Romero, 2017",NA
+Geomys_bursarius,Rodentia,1.83,197.25,"Boddy et al., 2012",NA
+Geomys_pinetis,Rodentia,2.51,313.5,"Boddy et al., 2012",NA
+Georychus_capensis,Rodentia,2.63,232.7,Scan,"Faurby et al., 2018"
+Gerbilliscus_afra,Rodentia,1.56,65,"Boddy et al., 2012",NA
+Gerbilliscus_brantsii,Rodentia,1.56,91.7,"Boddy et al., 2012",NA
+Gerbilliscus_leucogaster,Rodentia,1.22,72.8,Scan,"Faurby et al., 2018"
+Gerbilliscus_nigricaudus,Rodentia,2.23,123,Scan,"Faurby et al., 2018"
+Gerbilliscus_phillipsi,Rodentia,1.5,62.9,Scan,"Faurby et al., 2018"
+Gerbilliscus_robustus,Rodentia,1.5,96,Scan,"Faurby et al., 2018"
+Gerbillurus_paeba,Rodentia,0.84,24,"Boddy et al., 2012",NA
+Gerbillus_campestris,Rodentia,0.9,27.5,"Boddy et al., 2012",NA
+Gerbillus_dasyurus,Rodentia,1.32,20.5,"Boddy et al., 2012",NA
+Gerbillus_gleadowi,Rodentia,0.69,26.1,"Boddy et al., 2012",NA
+Gerbillus_nanus,Rodentia,0.6,14,"Boddy et al., 2012",NA
+Gerbillus_pyramidum,Rodentia,0.88,40.9,"Boddy et al., 2012",NA
+Giraffa_camelopardalis,Artiodactyla,700,1209000,"Boddy et al., 2012",NA
+Glaucomys_sabrinus,Rodentia,3.01,174,"Boddy et al., 2012",NA
+Glaucomys_volans,Rodentia,1.71,73.1,"Boddy et al., 2012",NA
+Glauconycteris_beatrix,Chiroptera,0.14,5.5,"Jones & MacLarnon, 2004",NA
+Glauconycteris_poensis,Chiroptera,0.21,8.6,"Jones & MacLarnon, 2004",NA
+Glis_glis,Rodentia,1.9,148,"Boddy et al., 2012",NA
+Glischropus_tylopus,Chiroptera,0.1,4.95,"Jones & MacLarnon, 2004",NA
+Globicephala_macrorhynchus,Cetacea,2466,386000,"Montgomery et al., 2013",NA
+Globicephala_melas,Cetacea,2673,1061000,"Montgomery et al., 2013",NA
+Glossophaga_leachii,Chiroptera,0.41,10.1,"Shi et al., 2018","Faurby et al., 2018"
+Glossophaga_longirostris,Chiroptera,0.44,11.2,"Jones & MacLarnon, 2004",NA
+Glossophaga_morenoi,Chiroptera,0.35,8.4,"Shi et al., 2018","Faurby et al., 2018"
+Glossophaga_soricina,Chiroptera,0.41,10.23,"Jones & MacLarnon, 2004",NA
+Golunda_ellioti,Rodentia,0.89,80.8,"Burger et al., 2019",NA
+Gorilla_beringei,Primates,491.27,130000,"Isler & van Schaik, 2012",NA
+Gorilla_gorilla,Primates,454.55,120975,"Boddy et al., 2012",NA
+Grammomys_cometes,Rodentia,0.96,40.7,"Boddy et al., 2012",NA
+Grammomys_dolichurus,Rodentia,0.84,29.25,"Isler & van Schaik, 2009",NA
+Grammomys_kuru,Rodentia,1.55,50.2,"Burger et al., 2019",NA
+Grampus_griseus,Cetacea,2551,400000,"Montgomery et al., 2013",NA
+Gulo_gulo,Carnivora,72.5,10600,"Isler & van Schaik, 2012",NA
+Gymnobelideus_leadbeateri,Diprotodontia,2.85,133,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Halichoerus_grypus,Carnivora,307.5,194000,"Boddy et al., 2012",NA
+Hapalemur_alaotrensis,Primates,13.8,1239.5,"Isler et al., 2008",NA
+Hapalemur_griseus,Primates,14.1,709,"Isler & van Schaik, 2012",NA
+Hapalemur_occidentalis,Primates,14.2,1202.71,"Isler et al., 2008",NA
+Hapalomys_longicaudatus,Rodentia,1.57,70,Scan,"Faurby et al., 2018"
+Haplonycteris_fischeri,Chiroptera,0.61,18,"Shi et al., 2018","Faurby et al., 2018"
+Harpiocephalus_harpia,Chiroptera,0.44,13.5,"Jones & MacLarnon, 2004",NA
+Harpyionycteris_celebensis,Chiroptera,2.16,104,"Shi et al., 2018","Faurby et al., 2018"
+Harpyionycteris_whiteheadi,Chiroptera,2.32,110.5,Scan,"Faurby et al., 2018"
+Helarctos_malayanus,Carnivora,385.5,45020,"Boddy et al., 2012",NA
+Heliophobius_argenteocinereus,Rodentia,1.43,160,"Boddy et al., 2012",NA
+Heliosciurus_gambianus,Rodentia,3.99,295,"Boddy et al., 2012",NA
+Heliosciurus_rufobrachium,Rodentia,5.75,326,"Boddy et al., 2012",NA
+Heliosciurus_ruwenzorii,Rodentia,5.4,291,"Boddy et al., 2012",NA
+Helogale_parvula,Carnivora,4.8,267,"Isler & van Schaik, 2012",NA
+Hemibelideus_lemuroides,Diprotodontia,3.15,952.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Hemicentetes_semispinosus,Afrosoricida,0.83,110,"Boddy et al., 2012",NA
+Hemiechinus_auritus,Eulipotyphla,1.9,250,"Boddy et al., 2012",NA
+Hemigalus_derbyanus,Carnivora,18.9,2041,"Isler & van Schaik, 2012",NA
+Hemitragus_jemlahicus,Artiodactyla,166,70000,"Perez-Barbería et al., 2007",NA
+Herpailurus_yagouaroundi,Carnivora,40.9,2485,"Perez-Barbería et al., 2007",NA
+Herpestes_brachyurus,Carnivora,12.55,1450,"Isler & van Schaik, 2009",NA
+Herpestes_edwardsii,Carnivora,10.86764,1320,"Finarelli & Flynn, 2009",NA
+Herpestes_fuscus,Carnivora,12.55,1120,"Gittleman, 1986",NA
+Herpestes_ichneumon,Carnivora,23.3,3265,"Isler & van Schaik, 2012",NA
+Herpestes_javanicus,Carnivora,7.2,527,"Isler & van Schaik, 2012",NA
+Herpestes_naso,Carnivora,25.53,3000,"Gittleman, 1986",NA
+Herpestes_pulverulentus,Carnivora,11.41672,800,"Finarelli & Flynn, 2009",NA
+Herpestes_sanguineus,Carnivora,9.07536,550,"Finarelli & Flynn, 2009",NA
+Herpestes_smithii,Carnivora,14.6,1205,"Perez-Barbería et al., 2007",NA
+Herpestes_urva,Carnivora,20.91,2360,"Gittleman, 1986",NA
+Herpestes_vitticollis,Carnivora,25.79,2290,"Gittleman, 1986",NA
+Hesperoptenus_blanfordi,Chiroptera,0.16,7.3,"Jones & MacLarnon, 2004",NA
+Hesperoptenus_tickelli,Chiroptera,0.33,18,"Shi et al., 2018","Faurby et al., 2018"
+Heterocephalus_glaber,Rodentia,0.52,60.8,"Boddy et al., 2012",NA
+Heterogeomys_cherriei,Rodentia,3.47,405,"Boddy et al., 2012",NA
+Heterohyrax_brucei,Hyracoidea,12.27,2625,"Burger et al., 2019",NA
+Heteromys_anomalus,Rodentia,1.02,70,"Isler & van Schaik, 2009",NA
+Heteromys_desmarestianus,Rodentia,1.13,74.65,"Boddy et al., 2012",NA
+Heteromys_irroratus,Rodentia,1.06,57.7,"Boddy et al., 2012",NA
+Heteromys_pictus,Rodentia,0.77,43.35,"Boddy et al., 2012",NA
+Heteromys_salvini,Rodentia,0.77,44.9,"Boddy et al., 2012",NA
+Hippopotamus_amphibius,Artiodactyla,720,1351000,"Boddy et al., 2012",NA
+Hipposideros_abae,Chiroptera,0.37,25.5,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_armiger,Chiroptera,0.8,56,"Jones & MacLarnon, 2004",NA
+Hipposideros_ater,Chiroptera,0.2,5.83,"Jones & MacLarnon, 2004",NA
+Hipposideros_bicolor,Chiroptera,0.24,8.38,"Jones & MacLarnon, 2004",NA
+Hipposideros_caffer,Chiroptera,0.31,10.9,"Jones & MacLarnon, 2004",NA
+Hipposideros_calcaratus,Chiroptera,0.37,11.35,"Jones & MacLarnon, 2004",NA
+Hipposideros_cervinus,Chiroptera,0.21,7.3,"Jones & MacLarnon, 2004",NA
+Hipposideros_commersoni,Chiroptera,0.74,101.25,"Jones & MacLarnon, 2004",NA
+Hipposideros_cyclops,Chiroptera,0.57,33.5,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_diadema,Chiroptera,0.72,43.6,"Jones & MacLarnon, 2004",NA
+Hipposideros_dyacorum,Chiroptera,0.19,6.1,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_fuliginosus,Chiroptera,0.29,16.6,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_fulvus,Chiroptera,0.24,7,"Jones & MacLarnon, 2004",NA
+Hipposideros_galeritus,Chiroptera,0.28,10.4,"Jones & MacLarnon, 2004",NA
+Hipposideros_grandis,Chiroptera,0.38,16.3,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_halophyllus,Chiroptera,0.15,4,"Jones & MacLarnon, 2004",NA
+Hipposideros_lankadiva,Chiroptera,0.73,48.5,"Jones & MacLarnon, 2004",NA
+Hipposideros_larvatus,Chiroptera,0.42,19.85,"Jones & MacLarnon, 2004",NA
+Hipposideros_lekaguli,Chiroptera,0.58,30.3,"Jones & MacLarnon, 2004",NA
+Hipposideros_lylei,Chiroptera,0.58,40,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_maggietaylorae,Chiroptera,0.54,20.5,"Jones & MacLarnon, 2004",NA
+Hipposideros_pelingensis,Chiroptera,0.92,56.2,"Shi et al., 2018","Faurby et al., 2018"
+Hipposideros_pomona,Chiroptera,0.23,6.2,"Jones & MacLarnon, 2004",NA
+Hipposideros_ridleyi,Chiroptera,0.27,9.65,"Jones & MacLarnon, 2004",NA
+Hipposideros_ruber,Chiroptera,0.27,7.3,"Jones & MacLarnon, 2004",NA
+Hipposideros_speoris,Chiroptera,0.28,11.5,"Jones & MacLarnon, 2004",NA
+Hipposideros_turpis,Chiroptera,0.6,34.8,"Jones & MacLarnon, 2004",NA
+Hippotragus_equinus,Artiodactyla,387.9,238375,"Isler & van Schaik, 2012",NA
+Hippotragus_niger,Artiodactyla,282,165000,"Isler & van Schaik, 2012",NA
+Histriophoca_fasciata,Carnivora,248.75,87580,"Boddy et al., 2012",NA
+Holochilus_chacarius,Rodentia,1.61,204,"Burger et al., 2019",NA
+Holochilus_sciureus,Rodentia,1.41,112.3,"Boddy et al., 2012",NA
+Homo_sapiens,Primates,1250.43,65142.86,"Boddy et al., 2012",NA
+Hoolock_hoolock,Primates,110.68,6728.25,"Isler et al., 2008",NA
+Hoplomys_gymnurus,Rodentia,4.13,330,"Boddy et al., 2012",NA
+Hyaena_hyaena,Carnivora,97.5,36300,"Isler & van Schaik, 2012",NA
+Hybomys_trivirgatus,Rodentia,1.1,57.5,"Boddy et al., 2012",NA
+Hybomys_univittatus,Rodentia,1.07,54.7,"Isler & van Schaik, 2009",NA
+Hydrictis_maculicollis,Carnivora,33,4300,"Isler & van Schaik, 2012",NA
+Hydrochoerus_hydrochaeris,Rodentia,75,28500,"Boddy et al., 2012",NA
+Hydromys_chrysogaster,Rodentia,4.33,698,"Boddy et al., 2012",NA
+Hydropotes_inermis,Artiodactyla,52,11300,"Perez-Barbería et al., 2007",NA
+Hydrurga_leptonyx,Carnivora,712.5,345500,"Boddy et al., 2012",NA
+Hyemoschus_aquaticus,Artiodactyla,25.2,10800,"Isler & van Schaik, 2012",NA
+Hylobates_agilis,Primates,88.1,5528.75,"Boddy et al., 2012",NA
+Hylobates_klossii,Primates,87.99,5795,"Isler et al., 2008",NA
+Hylobates_lar,Primates,93.99,5550,"Boddy et al., 2012",NA
+Hylobates_moloch,Primates,103,6577,"Isler et al., 2008",NA
+Hylobates_muelleri,Primates,95.31,5954.88,"Boddy et al., 2012",NA
+Hylobates_pileatus,Primates,84.69,5470,"Isler et al., 2008",NA
+Hylochoerus_meinertzhageni,Artiodactyla,141,200000,"Perez-Barbería et al., 2007",NA
+Hylonycteris_underwoodi,Chiroptera,0.34,6.7,"Shi et al., 2018","Faurby et al., 2018"
+Hylopetes_spadiceus,Rodentia,1.87,87.5,"Boddy et al., 2012",NA
+Hyperoodon_ampullatus,Cetacea,2720,5800000,"Ridway et al., 2017; Faurby et al., 2018",NA
+Hypsignathus_monstrosus,Chiroptera,3.41,324.63,"Jones & MacLarnon, 2004",NA
+Hypsugo_savii,Chiroptera,0.12,6.4,"Shi et al., 2018","Faurby et al., 2018"
+Hystrix_africaeaustralis,Rodentia,35.71,14936,"Stankowich & Romero, 2017",NA
+Hystrix_brachyura,Rodentia,37.64,8000,"Stankowich & Romero, 2017",NA
+Hystrix_cristata,Rodentia,32.4,15000,"Isler & van Schaik, 2012",NA
+Hystrix_indica,Rodentia,44.07,14650,"Stankowich & Romero, 2017",NA
+Hystrix_sumatrae,Rodentia,27.04,3260,"Stankowich & Romero, 2017",NA
+Ia_io,Chiroptera,0.76,53.3,"Jones & MacLarnon, 2004",NA
+Ichneumia_albicauda,Carnivora,28.3,4400,"Boddy et al., 2012",NA
+Ictidomys_mexicanus,Rodentia,3.5,274.5,"Mateju, 2016",NA
+Ictidomys_tridecemlineatus,Rodentia,2.27,149.8,"Mateju, 2016",NA
+Ictonyx_libycus,Carnivora,4.64128,630,"Finarelli & Flynn, 2009",NA
+Ictonyx_striatus,Carnivora,8.5,713,"Isler & van Schaik, 2012",NA
+Idionycteris_phyllotis,Chiroptera,0.32,12,"Shi et al., 2018","Faurby et al., 2018"
+Inia_geoffrensis,Cetacea,633.65,92003.5,"Montgomery et al., 2013",NA
+Iomys_horsfieldii,Rodentia,3.38,155.5,"Boddy et al., 2012",NA
+Isoodon_macrourus,Peramelemorphia,4.42,1600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Isoodon_obesulus,Peramelemorphia,4.03,691,"Boddy et al., 2012",NA
+Isothrix_orinoci,Rodentia,3.64,324.3,Scan,"Faurby et al., 2018"
+Isthmomys_pirrensis,Rodentia,1.71,138,"Boddy et al., 2012",NA
+Jaculus_jaculus,Rodentia,1.53,64.2,"Boddy et al., 2012",NA
+Jaculus_orientalis,Rodentia,2.5,98,"Boddy et al., 2012",NA
+Kerivoula_papillosa,Chiroptera,0.31,10.1,"Jones & MacLarnon, 2004",NA
+Kerivoula_pellucida,Chiroptera,0.2,4.1,"Jones & MacLarnon, 2004",NA
+Kerivoula_phalaena,Chiroptera,0.12,3,"Jones & MacLarnon, 2004",NA
+Kobus_ellipsiprymnus,Artiodactyla,290,188200,"Boddy et al., 2012",NA
+Kobus_kob,Artiodactyla,204,117500,"Isler & van Schaik, 2012",NA
+Kobus_leche,Artiodactyla,222.7,123000,"Isler & van Schaik, 2012",NA
+Kogia_breviceps,Cetacea,1019,334000,"Montgomery et al., 2013",NA
+Kogia_sima,Cetacea,622,168500,"Montgomery et al., 2013",NA
+Lagenorhynchus_acutus,Cetacea,1103.17,244605,"Montgomery et al., 2013",NA
+Lagenorhynchus_albirostris,Cetacea,1126,67500,"Montgomery et al., 2013",NA
+Lagenorhynchus_cruciger,Cetacea,1129.2,110000,"Goodall et al., 1997; Faurby et al., 2018",NA
+Lagenorhynchus_obliquidens,Cetacea,1136.75,89750,"Boddy et al., 2012",NA
+Lagenorhynchus_obscurus,Cetacea,886.1,58473.1,"Montgomery et al., 2013",NA
+Lagidium_viscacia,Rodentia,15.08,2460.5,"Boddy et al., 2012",NA
+Lagorchestes_conspicillatus,Diprotodontia,14,3000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Lagorchestes_hirsutus,Diprotodontia,7.77,1265,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Lagostomus_maximus,Rodentia,12.66,4270.75,"Boddy et al., 2012",NA
+Lagostrophus_fasciatus,Diprotodontia,7,1750,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Lagothrix_cana,Primates,99.34,8215,"Isler et al., 2008",NA
+Lagothrix_lagotricha,Primates,89.35,3905,"Boddy et al., 2012",NA
+Lagothrix_poeppigii,Primates,99.23,9072,"Isler et al., 2008",NA
+Lagurus_lagurus,Rodentia,0.42,20.1,"Boddy et al., 2012",NA
+Lampronycteris_brachyotis,Chiroptera,0.41,14.7,Scan,"Faurby et al., 2018"
+Lariscus_insignis,Rodentia,4.37,200,"Isler & van Schaik, 2009",NA
+Lasionycteris_noctivagans,Chiroptera,0.16,5.18,"Heldstab et al., 2018",NA
+Lasiorhinus_latifrons,Diprotodontia,55.5,26000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Lasiurus_borealis,Chiroptera,0.17,7.7,"Jones & MacLarnon, 2004",NA
+Lasiurus_cinereus,Chiroptera,0.37,25.3,"Shi et al., 2018","Faurby et al., 2018"
+Lasiurus_ega,Chiroptera,0.26,13.2,"Shi et al., 2018","Faurby et al., 2018"
+Lasiurus_intermedius,Chiroptera,0.44,23,"Shi et al., 2018","Faurby et al., 2018"
+Lasiurus_seminolus,Chiroptera,0.19,9.9,"Shi et al., 2018","Faurby et al., 2018"
+Lavia_frons,Chiroptera,0.64,23.5,"Jones & MacLarnon, 2004",NA
+Lemmus_lemmus,Rodentia,0.86,68.9,"Boddy et al., 2012",NA
+Lemmus_sibiricus,Rodentia,1.49,70,"Stankowich & Romero, 2017",NA
+Lemmus_trimucronatus,Rodentia,0.9,69.6,"Boddy et al., 2012",NA
+Lemniscomys_striatus,Rodentia,0.85,46.2,"Boddy et al., 2012",NA
+Lemur_catta,Primates,21.63,2090,"Boddy et al., 2012",NA
+Leontopithecus_chrysomelas,Primates,11.84,655,"Isler et al., 2008",NA
+Leontopithecus_rosalia,Primates,13.05,512.38,"Boddy et al., 2012",NA
+Leopardus_geoffroyi,Carnivora,34,3590,"Finarelli & Flynn, 2009",NA
+Leopardus_pardalis,Carnivora,63.1,9525.5,"Boddy et al., 2012",NA
+Leopoldamys_edwardsi,Rodentia,4.81,332.1,"Isler & van Schaik, 2009",NA
+Leopoldamys_sabanus,Rodentia,3.98,332.7,"Isler & van Schaik, 2009",NA
+Leopoldamys_siporanus,Rodentia,3.39,332.7,"Boddy et al., 2012",NA
+Lepilemur_dorsalis,Primates,6.7,870,"Isler et al., 2008",NA
+Lepilemur_edwardsi,Primates,7.25,931,"Isler et al., 2008",NA
+Lepilemur_leucopus,Primates,6.87,605.5,"Isler et al., 2008",NA
+Lepilemur_microdon,Primates,9.75,970,"Isler et al., 2008",NA
+Lepilemur_mustelinus,Primates,9.56,777,"Isler et al., 2008",NA
+Lepilemur_ruficaudatus,Primates,8.25,804.5,"Isler et al., 2008",NA
+Leptailurus_serval,Carnivora,54.1,11340,"Boddy et al., 2012",NA
+Leptonychotes_weddellii,Carnivora,564.17,378666.67,"Boddy et al., 2012",NA
+Leptonycteris_curasoae,Chiroptera,0.59,25,"Jones & MacLarnon, 2004",NA
+Leptonycteris_nivalis,Chiroptera,0.59,22.9,"Jones & MacLarnon, 2004",NA
+Leptonycteris_yerbabuenae,Chiroptera,0.52,20,"Shi et al., 2018","Faurby et al., 2018"
+Lepus_alleni,Lagomorpha,14.29,3930,"Heldstab et al., 2018",NA
+Lepus_americanus,Lagomorpha,9.72,1500,"Boddy et al., 2012",NA
+Lepus_arcticus,Lagomorpha,15.8,4231,"Boddy et al., 2012",NA
+Lepus_californicus,Lagomorpha,13.23,2314.9,"Boddy et al., 2012",NA
+Lepus_capensis,Lagomorpha,10.78,2412.5,"Boddy et al., 2012",NA
+Lepus_europaeus,Lagomorpha,14.35,1954,"Boddy et al., 2012",NA
+Lepus_flavigularis,Lagomorpha,11.13,2500,"Heldstab et al., 2018",NA
+Lepus_mandshuricus,Lagomorpha,11.38,1834.05,"Heldstab et al., 2018",NA
+Lepus_nigricollis,Lagomorpha,11.49,1961,"Boddy et al., 2012",NA
+Lepus_oiostolus,Lagomorpha,12.69,2468.55,"Heldstab et al., 2018",NA
+Lepus_saxatilis,Lagomorpha,11,2593.63,"Heldstab et al., 2018",NA
+Lepus_sinensis,Lagomorpha,9.25,1607.41,"Heldstab et al., 2018",NA
+Lepus_timidus,Lagomorpha,15.1,3274.5,"Boddy et al., 2012",NA
+Lepus_townsendii,Lagomorpha,12.54,3371.64,"Heldstab et al., 2018",NA
+Lepus_victoriae,Lagomorpha,10.25,1763.61,"Heldstab et al., 2018",NA
+Limnogale_mergulus,Afrosoricida,1.15,92,"Boddy et al., 2012",NA
+Lionycteris_spurrelli,Chiroptera,0.35,7.55,"Jones & MacLarnon, 2004",NA
+Lipotes_vexillifer,Cetacea,558,180000,"Montgomery et al., 2013",NA
+Lissodelphis_borealis,Cetacea,1162,73000,"Montgomery et al., 2013",NA
+Lissonycteris_angolensis,Chiroptera,1.76,84.15,"Jones & MacLarnon, 2004",NA
+Litocranius_walleri,Artiodactyla,117.5,39750,"Isler & van Schaik, 2012",NA
+Lobodon_carcinophaga,Carnivora,586.25,222250,"Boddy et al., 2012",NA
+Lonchophylla_handleyi,Chiroptera,0.51,18.5,"Shi et al., 2018","Faurby et al., 2018"
+Lonchophylla_mordax,Chiroptera,0.43,10.7,"Jones & MacLarnon, 2004",NA
+Lonchophylla_robusta,Chiroptera,0.55,17.2,"Shi et al., 2018","Faurby et al., 2018"
+Lonchophylla_thomasi,Chiroptera,0.34,7.2,"Jones & MacLarnon, 2004",NA
+Lonchorhina_aurita,Chiroptera,0.38,18,"Jones & MacLarnon, 2004",NA
+Lontra_canadensis,Carnivora,50.5,7850,"Isler & van Schaik, 2012",NA
+Lontra_felina,Carnivora,38.9,4000,"Isler & van Schaik, 2012",NA
+Lontra_longicaudis,Carnivora,57.4,8000,"Isler & van Schaik, 2012",NA
+Lophocebus_albigena,Primates,96.8,5125,"Boddy et al., 2012",NA
+Lophocebus_aterrimus,Primates,101.59,6800,"Isler et al., 2008",NA
+Lophostoma_brasiliense,Chiroptera,0.26,9.4,"Shi et al., 2018","Faurby et al., 2018"
+Lophostoma_carrikeri,Chiroptera,0.58,20.9,"Shi et al., 2018","Faurby et al., 2018"
+Lophostoma_schulzi,Chiroptera,0.55,18.2,"Shi et al., 2018","Faurby et al., 2018"
+Lophostoma_silvicolum,Chiroptera,0.8,32.3,"Jones & MacLarnon, 2004",NA
+Lophuromys_flavopunctatus,Rodentia,1.01,60,"Boddy et al., 2012",NA
+Lophuromys_sikapusi,Rodentia,1.13,60.7,"Boddy et al., 2012",NA
+Loris_lydekkerianus,Primates,6.3,267,"Isler & van Schaik, 2012",NA
+Loris_tardigradus,Primates,6,322,"Boddy et al., 2012",NA
+Loxodonta_africana,Proboscidea,5436.4,4301340,"Boddy et al., 2012",NA
+Lutra_lutra,Carnivora,39,6750,"Isler & van Schaik, 2012",NA
+Lutreolina_crassicaudata,Didelphimorphia,3.41,504,"Stankowich & Romero, 2017",NA
+Lutrogale_perspicillata,Carnivora,61,7300,"Isler & van Schaik, 2012",NA
+Lycalopex_culpaeus,Carnivora,51.4,8840,"Isler & van Schaik, 2012",NA
+Lycalopex_griseus,Carnivora,42.47,4324,"Perez-Barbería et al., 2007",NA
+Lycalopex_gymnocercus,Carnivora,40,4350,"Isler & van Schaik, 2012",NA
+Lycaon_pictus,Carnivora,129,22050,"Isler & van Schaik, 2012",NA
+Lynx_canadensis,Carnivora,69.5,14969,"Boddy et al., 2012",NA
+Lynx_lynx,Carnivora,68.5,17200,"Isler & van Schaik, 2012",NA
+Lynx_rufus,Carnivora,65,6350,"Boddy et al., 2012",NA
+Macaca_arctoides,Primates,100.7,7630,"Boddy et al., 2012",NA
+Macaca_assamensis,Primates,90.5,3655,"Boddy et al., 2012",NA
+Macaca_cyclopis,Primates,82,5470,"Isler et al., 2008",NA
+Macaca_fascicularis,Primates,66.93,3109.45,"Boddy et al., 2012",NA
+Macaca_fuscata,Primates,96.8,8030,"Isler & van Schaik, 2012",NA
+Macaca_hecki,Primates,94.6,6800,"van Woerden et al., 2011",NA
+Macaca_leonina,Primates,85.6,5641.58,"Isler et al., 2008",NA
+Macaca_maura,Primates,94.48,6846,"Boddy et al., 2012",NA
+Macaca_mulatta,Primates,87.99,4612.78,"Boddy et al., 2012",NA
+Macaca_nemestrina,Primates,110,4456,"Boddy et al., 2012",NA
+Macaca_nigra,Primates,97.5,3452,"Boddy et al., 2012",NA
+Macaca_ochreata,Primates,97.98,3400,"Isler et al., 2008",NA
+Macaca_radiata,Primates,69.4,3856,"Isler & van Schaik, 2012",NA
+Macaca_silenus,Primates,85,7500,"Isler et al., 2008",NA
+Macaca_sinica,Primates,58.15,1970,"Boddy et al., 2012",NA
+Macaca_sylvanus,Primates,87.7,11200,"Boddy et al., 2012",NA
+Macaca_tonkeana,Primates,93.7,9000,"Heldstab et al., 2016; Heldstab et al., 2018",NA
+Macroderma_gigas,Chiroptera,1.7,120,"Jones & MacLarnon, 2004",NA
+Macroglossus_minimus,Chiroptera,0.61,17.03,"Jones & MacLarnon, 2004",NA
+Macroglossus_sobrinus,Chiroptera,0.69,21.7,"Jones & MacLarnon, 2004",NA
+Macrophyllum_macrophyllum,Chiroptera,0.32,8.6,"Jones & MacLarnon, 2004",NA
+Macropus_agilis,Diprotodontia,33.3,15000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_antilopinus,Diprotodontia,56.8,27250,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_dorsalis,Diprotodontia,29.2,11250,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_eugenii,Diprotodontia,23.7,6500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_fuliginosus,Diprotodontia,58,28850,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_giganteus,Diprotodontia,69.8,26400,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_irma,Diprotodontia,24.7,8000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_parma,Diprotodontia,18.7,4275,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_parryi,Diprotodontia,41.3,13500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_robustus,Diprotodontia,59,21200,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_rufogriseus,Diprotodontia,36,16200,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macropus_rufus,Diprotodontia,62.4,46250,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macrotis_lagotis,Peramelemorphia,6.57,1800,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Macrotus_californicus,Chiroptera,0.39,13,"Stankowich & Romero, 2017",NA
+Macrotus_waterhousii,Chiroptera,0.42,12.8,"Shi et al., 2018","Faurby et al., 2018"
+Madoqua_kirkii,Artiodactyla,37,4570,"Boddy et al., 2012",NA
+Madoqua_saltiana,Artiodactyla,23.25,5000,"Heldstab et al., 2018",NA
+Makalata_didelphoides,Rodentia,3.45,108,"Stankowich & Romero, 2017",NA
+Makalata_macrura,Rodentia,3.89,439,"Stankowich & Romero, 2017",NA
+Malacomys_edwardsi,Rodentia,1.18,60,"Boddy et al., 2012",NA
+Malacomys_longipes,Rodentia,1.44,72.25,"Isler & van Schaik, 2009",NA
+Mandrillus_leucophaeus,Primates,148,15000,"Isler et al., 2008",NA
+Mandrillus_sphinx,Primates,159.2,11500,"Boddy et al., 2012",NA
+Manis_javanica,Pholidota,13.7,5150,"Isler & van Schaik, 2012",NA
+Manis_pentadactyla,Pholidota,17.64,4675,"Stankowich & Romero, 2017",NA
+Marmosa_mexicana,Didelphimorphia,1,49.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Marmosa_murina,Didelphimorphia,1.1,45,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Marmosa_robinsoni,Didelphimorphia,0.7,60,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Marmosa_rubra,Didelphimorphia,1.2,61,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Marmota_baibacina,Rodentia,13.75,5375,"Mateju, 2016",NA
+Marmota_bobak,Rodentia,12.56,4922,"Mateju, 2016",NA
+Marmota_broweri,Rodentia,13.94,3405,"Mateju, 2016",NA
+Marmota_caligata,Rodentia,14.63,6300,"Mateju, 2016",NA
+Marmota_camtschatica,Rodentia,12.63,3314.5,"Mateju, 2016",NA
+Marmota_caudata,Rodentia,14.28,4242,"Mateju, 2016",NA
+Marmota_flaviventris,Rodentia,12.27,3350.5,"Mateju, 2016",NA
+Marmota_himalayana,Rodentia,16.71,6607.5,"Mateju, 2016",NA
+Marmota_marmota,Rodentia,14.25,3813.65,"Mateju, 2016",NA
+Marmota_menzbieri,Rodentia,11.4,3015,"Mateju, 2016",NA
+Marmota_monax,Rodentia,14.19,2804.5,"Mateju, 2016",NA
+Marmota_olympus,Rodentia,15.43,3478.8,"Mateju, 2016",NA
+Marmota_sibirica,Rodentia,13.74,6500,"Mateju, 2016",NA
+Marmota_vancouverensis,Rodentia,13.68,4250,"Mateju, 2016",NA
+Martes_americana,Carnivora,15.8,860,"Gittleman, 1986",NA
+Martes_flavigula,Carnivora,34.12,2510,"Gittleman, 1986",NA
+Martes_foina,Carnivora,20.9,1450,"Isler & van Schaik, 2012",NA
+Martes_martes,Carnivora,18,982,"Isler & van Schaik, 2012",NA
+Martes_pennanti,Carnivora,29,2250,"Isler & van Schaik, 2012",NA
+Martes_zibellina,Carnivora,18.5,1130,"Isler & van Schaik, 2012",NA
+Massoutiera_mzabi,Rodentia,2.32,182.6,"Boddy et al., 2012",NA
+Mastomys_natalensis,Rodentia,0.72,46.03,"Barton & Capellini, 2011",NA
+Maxomys_rajah,Rodentia,1.92,150.5,"Isler & van Schaik, 2009",NA
+Maxomys_surifer,Rodentia,1.98,173.5,"Isler & van Schaik, 2009",NA
+Maxomys_whiteheadi,Rodentia,1.03,51.95,"Isler & van Schaik, 2009",NA
+Mazama_americana,Artiodactyla,56,3500,"Perez-Barbería et al., 2007",NA
+Megaderma_lyra,Chiroptera,0.89,35.3,"Jones & MacLarnon, 2004",NA
+Megaderma_spasma,Chiroptera,0.67,23.8,"Jones & MacLarnon, 2004",NA
+Megadontomys_thomasi,Rodentia,1.26,111,"Boddy et al., 2012",NA
+Megaerops_ecaudatus,Chiroptera,0.82,24.67,"Jones & MacLarnon, 2004",NA
+Megaerops_niphanae,Chiroptera,0.96,32.6,"Jones & MacLarnon, 2004",NA
+Megaloglossus_woermanni,Chiroptera,0.68,18,"Jones & MacLarnon, 2004",NA
+Megaptera_novaeangliae,Cetacea,6100,30050000,"Boddy et al., 2012",NA
+Meles_meles,Carnivora,45.5,10100,"Isler & van Schaik, 2012",NA
+Mellivora_capensis,Carnivora,72.97,8080,"Gittleman, 1986",NA
+Melogale_moschata,Carnivora,15.61,810,"Finarelli & Flynn, 2009",NA
+Melogale_personata,Carnivora,61.4,14042,"Perez-Barbería et al., 2007",NA
+Melomys_cervinipes,Rodentia,1.31,70,"Boddy et al., 2012",NA
+Melomys_rufescens,Rodentia,1.29,54.7,"Boddy et al., 2012",NA
+Melonycteris_melanops,Chiroptera,1.29,47.45,"Jones & MacLarnon, 2004",NA
+Melonycteris_woodfordi,Chiroptera,1.02,35.5,"Jones & MacLarnon, 2004",NA
+Melursus_ursinus,Carnivora,267,136080,"Boddy et al., 2012",NA
+Mephitis_macroura,Carnivora,10.43,1030,"Finarelli & Flynn, 2009",NA
+Mephitis_mephitis,Carnivora,10.15,1980,"Boddy et al., 2012",NA
+Meriones_hurrianae,Rodentia,0.97,71.3,"Boddy et al., 2012",NA
+Meriones_persicus,Rodentia,2.05,100,Scan,"Faurby et al., 2018"
+Meriones_rex,Rodentia,2.02,125.3,Scan,"Faurby et al., 2018"
+Meriones_unguiculatus,Rodentia,1.13,57.4,"Boddy et al., 2012",NA
+Mesechinus_dauuricus,Eulipotyphla,2.9,342,"Stankowich & Romero, 2017",NA
+Mesembriomys_gouldii,Rodentia,4.59,1110,"Boddy et al., 2012",NA
+Mesocapromys_nanus,Rodentia,3.91,414.9,Scan,"Faurby et al., 2018"
+Mesocricetus_auratus,Rodentia,1,120,"Burger et al., 2019",NA
+Mesocricetus_raddei,Rodentia,1.51,260,Scan,"Faurby et al., 2018"
+Mesomys_hispidus,Rodentia,2.64,175,"Stankowich & Romero, 2017",NA
+Mesophylla_macconnelli,Chiroptera,0.34,7.55,"Jones & MacLarnon, 2004",NA
+Mesoplodon_densirostris,Cetacea,1424.5,770500,"Montgomery et al., 2013",NA
+Mesoplodon_europaeus,Cetacea,2149,732500,"Montgomery et al., 2013",NA
+Mesoplodon_mirus,Cetacea,2355,929500,"Montgomery et al., 2013",NA
+Metachirus_nudicaudatus,Didelphimorphia,3.5,300,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Mico_argentatus,Primates,8,345,"Isler & van Schaik, 2012",NA
+Mico_humeralifer,Primates,8.2,370,"Isler et al., 2008",NA
+Microcavia_australis,Rodentia,3.12,286.1,Scan,"Faurby et al., 2018"
+Microcebus_murinus,Primates,1.84,58,"Boddy et al., 2012",NA
+Microcebus_rufus,Primates,1.72,42.5,"Isler et al., 2008",NA
+Microdipodops_megacephalus,Rodentia,0.56,13.85,"Boddy et al., 2012",NA
+Microdipodops_pallidus,Rodentia,0.55,12.9,"Boddy et al., 2012",NA
+Microgale_cowani,Afrosoricida,0.42,15.2,"Boddy et al., 2012",NA
+Microgale_dobsoni,Afrosoricida,0.56,32.6,"Boddy et al., 2012",NA
+Microgale_talazaci,Afrosoricida,0.79,50.4,"Boddy et al., 2012",NA
+Micromys_minutus,Rodentia,0.29,6.4,"Boddy et al., 2012",NA
+Micronycteris_brosseti,Chiroptera,0.24,4.8,"Shi et al., 2018","Faurby et al., 2018"
+Micronycteris_hirsuta,Chiroptera,0.41,12,"Shi et al., 2018","Faurby et al., 2018"
+Micronycteris_matses,Chiroptera,0.31,10.7,"Shi et al., 2018","Faurby et al., 2018"
+Micronycteris_megalotis,Chiroptera,0.27,6.5,"Jones & MacLarnon, 2004",NA
+Micronycteris_microtis,Chiroptera,0.27,5.6,"Shi et al., 2018","Faurby et al., 2018"
+Micronycteris_minuta,Chiroptera,0.29,6.9,"Jones & MacLarnon, 2004",NA
+Micronycteris_schmidtorum,Chiroptera,0.31,7.8,"Jones & MacLarnon, 2004",NA
+Microperoryctes_longicauda,Peramelemorphia,3.81,538,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Micropotamogale_lamottei,Afrosoricida,0.8,69.59,"Patzke et al., 2013; Jones et al., 2009",NA
+Micropteropus_pusillus,Chiroptera,0.82,25.2,"Jones & MacLarnon, 2004",NA
+Microtus_agrestis,Rodentia,0.74,32.4,"Boddy et al., 2012",NA
+Microtus_arvalis,Rodentia,0.55,30.4,"Boddy et al., 2012",NA
+Microtus_californicus,Rodentia,0.78,43.3,"Boddy et al., 2012",NA
+Microtus_guentheri,Rodentia,0.69,51.3,"Boddy et al., 2012",NA
+Microtus_longicaudus,Rodentia,0.7,47.4,"Boddy et al., 2012",NA
+Microtus_mexicanus,Rodentia,0.54,35,"Isler & van Schaik, 2009",NA
+Microtus_montanus,Rodentia,0.69,39.7,"Boddy et al., 2012",NA
+Microtus_ochrogaster,Rodentia,0.71,43.8,"Boddy et al., 2012",NA
+Microtus_oregoni,Rodentia,0.52,22,"Boddy et al., 2012",NA
+Microtus_pennsylvanicus,Rodentia,0.74,30.13,"Boddy et al., 2012",NA
+Microtus_pinetorum,Rodentia,0.56,24.9,"Boddy et al., 2012",NA
+Microtus_townsendii,Rodentia,0.88,45.8,"Boddy et al., 2012",NA
+Mimon_cozumelae,Chiroptera,0.65,12.4,"Shi et al., 2018","Faurby et al., 2018"
+Mimon_crenulatum,Chiroptera,0.33,13.78,"Jones & MacLarnon, 2004",NA
+Miniopterus_australis,Chiroptera,0.17,7.1,"Jones & MacLarnon, 2004",NA
+Miniopterus_fuscus,Chiroptera,0.27,11.4,"Jones & MacLarnon, 2004",NA
+Miniopterus_inflatus,Chiroptera,0.33,15.05,"Jones & MacLarnon, 2004",NA
+Miniopterus_magnater,Chiroptera,0.32,15,"Jones & MacLarnon, 2004",NA
+Miniopterus_medius,Chiroptera,0.27,11.71,"Burger et al., 2019",NA
+Miniopterus_pusillus,Chiroptera,0.22,8.6,"Jones & MacLarnon, 2004",NA
+Miniopterus_schreibersii,Chiroptera,0.27,11.78,"Jones & MacLarnon, 2004",NA
+Miniopterus_tristis,Chiroptera,0.33,15.6,"Jones & MacLarnon, 2004",NA
+Miopithecus_ogouensis,Primates,37.35,1750,"Isler et al., 2008",NA
+Miopithecus_talapoin,Primates,34.8,1560,"Isler & van Schaik, 2012",NA
+Mirounga_angustirostris,Carnivora,670,700000,"Isler & van Schaik, 2012",NA
+Mirounga_leonina,Carnivora,1205,2006500,"Boddy et al., 2012",NA
+Mirza_coquereli,Primates,5.8,311.5,"Isler et al., 2008",NA
+Molossops_temminckii,Chiroptera,0.18,6.8,"Burger et al., 2019",NA
+Molossus_molossus,Chiroptera,0.28,13.23,"Jones & MacLarnon, 2004",NA
+Molossus_rufus,Chiroptera,0.53,33.6,"Jones & MacLarnon, 2004",NA
+Molossus_sinaloae,Chiroptera,0.44,19.2,"Jones & MacLarnon, 2004",NA
+Monachus_monachus,Carnivora,480,280500,"Boddy et al., 2012",NA
+Monodelphis_brevicaudata,Didelphimorphia,0.9,70,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Monodon_monoceros,Cetacea,2993.7,1578330,"Montgomery et al., 2013",NA
+Monophyllus_plethodon,Chiroptera,0.41,14.9,"Jones & MacLarnon, 2004",NA
+Monophyllus_redmani,Chiroptera,0.38,8.7,"Shi et al., 2018","Faurby et al., 2018"
+Mops_condylurus,Chiroptera,0.42,26.65,"Jones & MacLarnon, 2004",NA
+Mops_leucostigma,Chiroptera,0.39,26.79,"Patzke et al., 2013; Jones et al., 2009",NA
+Mops_midas,Chiroptera,0.62,45.2,"Shi et al., 2018","Faurby et al., 2018"
+Mops_mops,Chiroptera,0.47,30.95,"Jones & MacLarnon, 2004",NA
+Mops_niveiventer,Chiroptera,0.43,21.7,"Jones & MacLarnon, 2004",NA
+Mormoops_blainvillei,Chiroptera,0.22,8.6,"Shi et al., 2018","Faurby et al., 2018"
+Mormoops_megalophylla,Chiroptera,0.4,15.53,"Jones & MacLarnon, 2004",NA
+Mormopterus_acetabulosus,Chiroptera,0.13,14.1,"Shi et al., 2018","Faurby et al., 2018"
+Mormopterus_beccarii,Chiroptera,0.23,14.2,"Jones & MacLarnon, 2004",NA
+Mormopterus_jugularis,Chiroptera,0.22,11.5,"Jones & MacLarnon, 2004",NA
+Mormopterus_planiceps,Chiroptera,0.13,8.8,"Shi et al., 2018","Faurby et al., 2018"
+Moschiola_meminna,Artiodactyla,16.93,1997,"Boddy et al., 2012",NA
+Mosia_nigrescens,Chiroptera,0.12,3.7,"Pitnick et al., 2006",NA
+Mungos_mungo,Carnivora,10.5,860,"Isler & van Schaik, 2012",NA
+Muntiacus_muntjak,Artiodactyla,124.5,16600,"Isler & van Schaik, 2012",NA
+Muntiacus_reevesi,Artiodactyla,70.17,13499.94,"Heldstab et al., 2018",NA
+Murexia_longicaudata,Dasyuromorphia,1.68,78,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Murexia_melanurus,Dasyuromorphia,0.7,31,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Murexia_naso,Dasyuromorphia,0.8,48.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Murexia_rothschildi,Dasyuromorphia,1.09,62,"Boddy et al., 2012",NA
+Murina_aurata,Chiroptera,0.16,7.3,"Shi et al., 2018","Faurby et al., 2018"
+Murina_cyclotis,Chiroptera,0.27,7.88,"Jones & MacLarnon, 2004",NA
+Murina_huttoni,Chiroptera,0.26,8.8,"Jones & MacLarnon, 2004",NA
+Murina_tubinaris,Chiroptera,0.22,5.45,"Jones & MacLarnon, 2004",NA
+Mus_booduga,Rodentia,0.31,14.6,"Boddy et al., 2012",NA
+Mus_minutoides,Rodentia,0.27,5.5,"Isler & van Schaik, 2006",NA
+Mus_musculus,Rodentia,0.4,15.1,"Isler & van Schaik, 2012",NA
+Mus_platythrix,Rodentia,0.5,29.2,"Boddy et al., 2012",NA
+Mus_triton,Rodentia,0.43,11.5,"Isler & van Schaik, 2009",NA
+Musonycteris_harrisoni,Chiroptera,0.45,11.8,"Shi et al., 2018","Faurby et al., 2018"
+Mustela_altaica,Carnivora,4.48,190,"Gittleman, 1986",NA
+Mustela_erminea,Carnivora,4.57,156.43,"Boddy et al., 2012",NA
+Mustela_frenata,Carnivora,4,165,"Isler & van Schaik, 2012",NA
+Mustela_kathiah,Carnivora,4.57,210,"Finarelli & Flynn, 2009",NA
+Mustela_lutreola,Carnivora,8.5,590,"Gittleman, 1986",NA
+Mustela_lutreolina,Carnivora,8.5,538,"Isler & van Schaik, 2012",NA
+Mustela_nigripes,Carnivora,8.5,809,"Isler & van Schaik, 2012",NA
+Mustela_nivalis,Carnivora,2,60,"Isler & van Schaik, 2012",NA
+Mustela_putorius,Carnivora,7.87,915,"Boddy et al., 2012",NA
+Mustela_sibirica,Carnivora,6,395,"Isler & van Schaik, 2012",NA
+Mydaus_javanensis,Carnivora,19.49,2510,"Gittleman, 1986",NA
+Mydaus_marchei,Carnivora,14.87,1414,"Stankowich & Romero, 2017",NA
+Myocastor_coypus,Rodentia,17.09,7052,"Boddy et al., 2012",NA
+Myodes_gapperi,Rodentia,0.56,16.9,"Boddy et al., 2012",NA
+Myodes_glareolus,Rodentia,0.52,17.9,"Boddy et al., 2012",NA
+Myodes_rufocanus,Rodentia,0.61,38.3,"Boddy et al., 2012",NA
+Myodes_rutilus,Rodentia,0.56,17.6,"Boddy et al., 2012",NA
+Myoictis_melas,Dasyuromorphia,2.05,91,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Myonycteris_torquata,Chiroptera,1.12,36.4,"Jones & MacLarnon, 2004",NA
+Myoprocta_acouchy,Rodentia,10.93,1250,"Mace et al., 1981",NA
+Myopterus_daubentonii,Chiroptera,0.45,28.4,"Shi et al., 2018","Faurby et al., 2018"
+Myopus_schisticolor,Rodentia,0.56,33.5,"Boddy et al., 2012",NA
+Myotis_adversus,Chiroptera,0.25,11.25,"Jones & MacLarnon, 2004",NA
+Myotis_albescens,Chiroptera,0.13,4,"Jones & MacLarnon, 2004",NA
+Myotis_altarium,Chiroptera,0.24,11,"Jones & MacLarnon, 2004",NA
+Myotis_annectans,Chiroptera,0.22,9.8,"Jones & MacLarnon, 2004",NA
+Myotis_auriculus,Chiroptera,0.18,5,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_austroriparius,Chiroptera,0.16,6.8,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_bechsteinii,Chiroptera,0.26,9,"Jones & MacLarnon, 2004",NA
+Myotis_bocagii,Chiroptera,0.2,7.3,"Jones & MacLarnon, 2004",NA
+Myotis_californicus,Chiroptera,0.11,4.6,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_chiloensis,Chiroptera,0.15,6.8,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_ciliolabrum,Chiroptera,0.1,4.9,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_dasycneme,Chiroptera,0.31,15,"Jones & MacLarnon, 2004",NA
+Myotis_daubentonii,Chiroptera,0.23,7.75,"Jones & MacLarnon, 2004",NA
+Myotis_elegans,Chiroptera,0.11,4.1,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_emarginatus,Chiroptera,0.21,7.7,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_formosus,Chiroptera,0.27,7,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_fortidens,Chiroptera,0.13,4.35,"Jones & MacLarnon, 2004",NA
+Myotis_grisescens,Chiroptera,0.18,10.5,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_hasseltii,Chiroptera,0.19,7.5,"Jones & MacLarnon, 2004",NA
+Myotis_horsfieldii,Chiroptera,0.2,6.3,"Jones & MacLarnon, 2004",NA
+Myotis_keenii,Chiroptera,0.06,6.3,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_lucifugus,Chiroptera,0.16,8,"Jones & MacLarnon, 2004",NA
+Myotis_macrotarsus,Chiroptera,0.31,12.5,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_montivagus,Chiroptera,0.17,8.3,"Jones & MacLarnon, 2004",NA
+Myotis_muricola,Chiroptera,0.13,4.95,"Jones & MacLarnon, 2004",NA
+Myotis_myotis,Chiroptera,0.49,27.92,"Jones & MacLarnon, 2004",NA
+Myotis_mystacinus,Chiroptera,0.16,4.85,"Jones & MacLarnon, 2004",NA
+Myotis_nattereri,Chiroptera,0.22,7.15,"Jones & MacLarnon, 2004",NA
+Myotis_nigricans,Chiroptera,0.13,4.45,"Jones & MacLarnon, 2004",NA
+Myotis_riparius,Chiroptera,0.17,7.95,"Jones & MacLarnon, 2004",NA
+Myotis_ruber,Chiroptera,0.16,5,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_siligorensis,Chiroptera,0.1,3.46,"Jones & MacLarnon, 2004",NA
+Myotis_sodalis,Chiroptera,0.15,6.9,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_thysanodes,Chiroptera,0.2,8.1,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_tricolor,Chiroptera,0.26,13.6,"Jones & MacLarnon, 2004",NA
+Myotis_velifer,Chiroptera,0.2,8.9,"Jones & MacLarnon, 2004",NA
+Myotis_vivesi,Chiroptera,0.42,25,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_volans,Chiroptera,0.14,8.5,"Shi et al., 2018","Faurby et al., 2018"
+Myotis_yumanensis,Chiroptera,0.13,4.6,"Jones & MacLarnon, 2004",NA
+Myrmecobius_fasciatus,Dasyuromorphia,4.25,471.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Myrmecophaga_tridactyla,Xenarthra,84,18940,"Boddy et al., 2012",NA
+Mysateles_prehensilis,Rodentia,8.73,1800,Scan,"Faurby et al., 2018"
+Mystromys_albicaudatus,Rodentia,1.39,80,"Boddy et al., 2012",NA
+Nandinia_binotata,Carnivora,17.3,3190,"Isler & van Schaik, 2012",NA
+Nanger_dama,Artiodactyla,150,60000,"Isler & van Schaik, 2012",NA
+Nanger_granti,Artiodactyla,139,40500,"Isler & van Schaik, 2012",NA
+Nanonycteris_veldkampii,Chiroptera,0.65,21.4,"Shi et al., 2018","Faurby et al., 2018"
+Napaeozapus_insignis,Rodentia,0.48,23.2,"Boddy et al., 2012",NA
+Nasalis_larvatus,Primates,83.8,9730,"Isler & van Schaik, 2012",NA
+Nasua_narica,Carnivora,44.17,6250,"Boddy et al., 2012",NA
+Nasua_nasua,Carnivora,37.5,3187.5,"Boddy et al., 2012",NA
+Natalus_jamaicensis,Chiroptera,0.31,6.7,"Shi et al., 2018","Faurby et al., 2018"
+Natalus_stramineus,Chiroptera,0.19,5,"Shi et al., 2018","Faurby et al., 2018"
+Natalus_tumidirostris,Chiroptera,0.25,6.9,"Jones & MacLarnon, 2004",NA
+Nectomys_apicalis,Rodentia,1.65,297.4,Scan,"Faurby et al., 2018"
+Nectomys_squamipes,Rodentia,1.92,190.7,Scan,"Faurby et al., 2018"
+Neofelis_nebulosa,Carnivora,68.7,19490,"Isler & van Schaik, 2012",NA
+Neofiber_alleni,Rodentia,2.72,270.5,"Boddy et al., 2012",NA
+Neomonachus_schauinslandi,Carnivora,370,173000,"Boddy et al., 2012",NA
+Neomys_anomalus,Eulipotyphla,0.25,4.79,"Heldstab et al., 2018",NA
+Neomys_fodiens,Eulipotyphla,0.31,16.35,"Boddy et al., 2012",NA
+Neophascogale_lorentzii,Dasyuromorphia,2.45,212,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Neophoca_cinerea,Carnivora,388.75,189275,"Boddy et al., 2012",NA
+Neophocaena_phocaenoides,Cetacea,468,32400,"Montgomery et al., 2013",NA
+Neoromicia_capensis,Chiroptera,0.13,6,"Shi et al., 2018","Faurby et al., 2018"
+Neoromicia_flavescens,Chiroptera,0.19,10.5,"Jones & MacLarnon, 2004",NA
+Neoromicia_nana,Chiroptera,0.1,3.9,"Jones & MacLarnon, 2004",NA
+Neotamias_amoenus,Rodentia,1.39,50.8,"Boddy et al., 2012",NA
+Neotamias_cinereicollis,Rodentia,1.8,61.7,"Isler & van Schaik, 2012",NA
+Neotamias_dorsalis,Rodentia,1.98,62.2,"Boddy et al., 2012",NA
+Neotamias_minimus,Rodentia,1.6,45.3,"Boddy et al., 2012",NA
+Neotamias_palmeri,Rodentia,1.99,60.8,"Boddy et al., 2012",NA
+Neotamias_panamintinus,Rodentia,1.83,51.2,"Boddy et al., 2012",NA
+Neotamias_quadrimaculatus,Rodentia,2.16,82.3,"Boddy et al., 2012",NA
+Neotamias_quadrivittatus,Rodentia,1.7,62.3,"Boddy et al., 2012",NA
+Neotamias_speciosus,Rodentia,1.86,59.9,"Boddy et al., 2012",NA
+Neotamias_townsendii,Rodentia,2.44,89.4,"Boddy et al., 2012",NA
+Neotoma_albigula,Rodentia,2.17,223.1,"Boddy et al., 2012",NA
+Neotoma_cinerea,Rodentia,2.65,331.3,"Boddy et al., 2012",NA
+Neotoma_floridana,Rodentia,3.04,257.7,"Boddy et al., 2012",NA
+Neotoma_fuscipes,Rodentia,2.66,193.3,"Boddy et al., 2012",NA
+Neotoma_mexicana,Rodentia,1.99,203,"Isler & van Schaik, 2009",NA
+Neotoma_micropus,Rodentia,2.66,378.3,"Boddy et al., 2012",NA
+Neovison_vison,Carnivora,7,645,"Isler & van Schaik, 2012",NA
+Nesokia_indica,Rodentia,1.98,178,"Isler & van Schaik, 2009",NA
+Nesotragus_moschatus,Artiodactyla,32,3250,"Perez-Barberia et al., 2007; Shultz & Dunbar, 2006",NA
+Neurotrichus_gibbsii,Eulipotyphla,0.91,10,"Boddy et al., 2012",NA
+Ningaui_ridei,Dasyuromorphia,0.24,9,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Ningaui_yvonneae,Dasyuromorphia,0.26,8,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Niviventer_cremoriventer,Rodentia,1.32,66.3,"Isler & van Schaik, 2009",NA
+Noctilio_albiventris,Chiroptera,0.57,35.6,"Jones & MacLarnon, 2004",NA
+Noctilio_leporinus,Chiroptera,1.18,59.16,"Jones & MacLarnon, 2004",NA
+Nomascus_gabriellae,Primates,119.38,7365,"Isler et al., 2008",NA
+Nomascus_leucogenys,Primates,121.97,6520,"van Woerden et al., 2010; Heldstab et al., 2018",NA
+Notiosorex_crawfordi,Eulipotyphla,0.15,6,"Boddy et al., 2012",NA
+Notocitellus_adocetus,Rodentia,3.01,155.52,"Mateju, 2016; Jones et al., 2009",NA
+Notomys_alexis,Rodentia,0.96,37,"Boddy et al., 2012",NA
+Notomys_cervinus,Rodentia,1.03,35,"Isler & van Schaik, 2009",NA
+Notomys_mitchellii,Rodentia,0.97,52,"Isler & van Schaik, 2009",NA
+Notopteris_macdonaldi,Chiroptera,1.45,70.18,"Jones & MacLarnon, 2004",NA
+Notoryctes_caurinus,Notoryctemorphia,0.78,55,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Nyctalus_leisleri,Chiroptera,0.23,13.3,"Shi et al., 2018","Faurby et al., 2018"
+Nyctalus_noctula,Chiroptera,0.36,26,"Jones & MacLarnon, 2004",NA
+Nyctereutes_procyonoides,Carnivora,28.5,4020,"Isler & van Schaik, 2012",NA
+Nycteris_arge,Chiroptera,0.36,10.65,"Jones & MacLarnon, 2004",NA
+Nycteris_grandis,Chiroptera,0.74,29.4,"Jones & MacLarnon, 2004",NA
+Nycteris_hispida,Chiroptera,0.28,7.8,"Jones & MacLarnon, 2004",NA
+Nycteris_javanica,Chiroptera,0.48,17.7,"Jones & MacLarnon, 2004",NA
+Nycteris_macrotis,Chiroptera,0.39,14.5,"Jones & MacLarnon, 2004",NA
+Nycteris_nana,Chiroptera,0.24,6.95,"Jones & MacLarnon, 2004",NA
+Nycteris_thebaica,Chiroptera,0.28,8.95,"Jones & MacLarnon, 2004",NA
+Nycteris_tragata,Chiroptera,0.48,14.4,"Jones & MacLarnon, 2004",NA
+Nycticebus_bengalensis,Primates,13.5,1060,"Isler & van Schaik, 2012",NA
+Nycticebus_coucang,Primates,12.74,655.5,"Boddy et al., 2012",NA
+Nycticebus_pygmaeus,Primates,7.8,480,"Boddy et al., 2012",NA
+Nycticeius_humeralis,Chiroptera,0.15,9,"Shi et al., 2018","Faurby et al., 2018"
+Nyctimene_aello,Chiroptera,1.58,84.3,"Shi et al., 2018","Faurby et al., 2018"
+Nyctimene_albiventer,Chiroptera,0.83,29.7,"Jones & MacLarnon, 2004",NA
+Nyctimene_cephalotes,Chiroptera,1.08,44.5,"Shi et al., 2018","Faurby et al., 2018"
+Nyctimene_certans,Chiroptera,1.14,42.1,"Shi et al., 2018","Faurby et al., 2018"
+Nyctimene_major,Chiroptera,1.52,104.2,"Shi et al., 2018","Faurby et al., 2018"
+Nyctimene_robinsoni,Chiroptera,1.23,47.03,"Jones & MacLarnon, 2004",NA
+Nyctimene_vizcaccia,Chiroptera,0.99,35.4,"Jones & MacLarnon, 2004",NA
+Nyctinomops_aurispinosus,Chiroptera,0.3,18,"Shi et al., 2018","Faurby et al., 2018"
+Nyctinomops_laticaudatus,Chiroptera,0.26,12.2,"Shi et al., 2018","Faurby et al., 2018"
+Nyctomys_sumichrasti,Rodentia,1.08,60,"Boddy et al., 2012",NA
+Nyctophilus_geoffroyi,Chiroptera,0.17,7.2,"Jones & MacLarnon, 2004",NA
+Ochotona_hyperborea,Lagomorpha,2.22,120,"Boddy et al., 2012",NA
+Ochotona_princeps,Lagomorpha,2.39,169,"Boddy et al., 2012",NA
+Ochotona_rufescens,Lagomorpha,2.75,250,"Boddy et al., 2012",NA
+Ochrotomys_nuttalli,Rodentia,0.7,20.6,"Isler & van Schaik, 2012",NA
+Octodon_degus,Rodentia,2.1,210,"Isler & van Schaik, 2012",NA
+Octodontomys_gliroides,Rodentia,2.68,150,Scan,"Faurby et al., 2018"
+Odobenus_rosmarus,Carnivora,1410.25,1022225,"Boddy et al., 2012",NA
+Odocoileus_hemionus,Artiodactyla,189.3,58990,"Isler & van Schaik, 2012",NA
+Odocoileus_virginianus,Artiodactyla,210,65090,"Boddy et al., 2012",NA
+Oenomys_hypoxanthus,Rodentia,1.19,82,"Isler & van Schaik, 2009",NA
+Okapia_johnstoni,Artiodactyla,501,240000,"Perez-Barbería et al., 2007",NA
+Olallamys_albicauda,Rodentia,3.13,273.5,Scan,"Faurby et al., 2018"
+Oligoryzomys_longicaudatus,Rodentia,0.67,26.6,"Boddy et al., 2012",NA
+Ommatophoca_rossii,Carnivora,495,179400,"Boddy et al., 2012",NA
+Ondatra_zibethicus,Rodentia,5.03,1136.45,"Boddy et al., 2012",NA
+Onychogalea_fraenata,Diprotodontia,14.7,4550,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Onychogalea_unguifera,Diprotodontia,16.7,6650,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Onychomys_leucogaster,Rodentia,0.8,27.39,"Boddy et al., 2012",NA
+Onychomys_torridus,Rodentia,0.59,20.02,"Boddy et al., 2012",NA
+Orcinus_orca,Cetacea,6052,3273000,"Boddy et al., 2012",NA
+Oreotragus_oreotragus,Artiodactyla,59.4,11000,"Isler & van Schaik, 2012",NA
+Ornithorhynchus_anatinus,Monotremata,10.08,1389,"Boddy et al., 2012",NA
+Orthogeomys_heterodus,Rodentia,4.31,630,"Boddy et al., 2012",NA
+Orthogeomys_hispidus,Rodentia,3.98,542.1,"Boddy et al., 2012",NA
+Orycteropus_afer,Tubulidentata,79.5,44650,"Isler & van Schaik, 2012",NA
+Oryctolagus_cuniculus,Lagomorpha,11.09,2157.6,"Boddy et al., 2012",NA
+Oryx_beisa,Artiodactyla,282,175000,"Perez-Barbería et al., 2007",NA
+Oryx_dammah,Artiodactyla,205,129500,"Heldstab et al., 2018",NA
+Oryx_gazella,Artiodactyla,292,165000,"Isler & van Schaik, 2012",NA
+Oryzomys_palustris,Rodentia,0.88,47.1,"Boddy et al., 2012",NA
+Oryzorictes_hova,Afrosoricida,0.58,44.2,"Boddy et al., 2012",NA
+Osgoodomys_banderanus,Rodentia,0.94,45.64,"Mace & Eisenberg, 1982",NA
+Otaria_byronia,Carnivora,506.25,222000,"Boddy et al., 2012",NA
+Otocolobus_manul,Carnivora,34.47,3000,"Finarelli & Flynn, 2009",NA
+Otocyon_megalotis,Carnivora,26.09,3335,"Boddy et al., 2012",NA
+Otolemur_crassicaudatus,Primates,11.78,1150,"Isler et al., 2008",NA
+Otolemur_garnettii,Primates,11.5,764,"Isler et al., 2008",NA
+Otomops_martiensseni,Chiroptera,0.76,41.75,"Jones & MacLarnon, 2004",NA
+Otomys_angoniensis,Rodentia,0.42,95,"Boddy et al., 2012",NA
+Otomys_irroratus,Rodentia,1.38,141,"Boddy et al., 2012",NA
+Otopteropus_cartilagonodus,Chiroptera,0.58,16.8,"Shi et al., 2018","Faurby et al., 2018"
+Otospermophilus_beecheyi,Rodentia,5.42,564.9,"Mateju, 2016",NA
+Otospermophilus_variegatus,Rodentia,7.01,703.15,"Mateju, 2016",NA
+Ototylomys_phyllotis,Rodentia,1.33,63,"Boddy et al., 2012",NA
+Ourebia_ourebi,Artiodactyla,58.3,14617,"Isler & van Schaik, 2012",NA
+Ovibos_moschatus,Artiodactyla,350,312500,"Heldstab et al., 2016; Heldstab et al., 2018",NA
+Ovis_ammon,Artiodactyla,140,55000,"Isler & van Schaik, 2012",NA
+Ovis_orientalis,Artiodactyla,175,55500,"Burger et al., 2019",NA
+Pagophilus_groenlandicus,Carnivora,275,132250,"Isler & van Schaik, 2012",NA
+Paguma_larvata,Carnivora,30.9,4800,"Isler & van Schaik, 2012",NA
+Pan_paniscus,Primates,329.7,39700,"Boddy et al., 2012",NA
+Pan_troglodytes,Primates,354.81,60433.16,"Boddy et al., 2012",NA
+Panthera_leo,Carnivora,259.5,84000,"Boddy et al., 2012",NA
+Panthera_onca,Carnivora,149,77700,"Isler & van Schaik, 2012",NA
+Panthera_pardus,Carnivora,135,48000,"Boddy et al., 2012",NA
+Panthera_tigris,Carnivora,269.73,195000,"Boddy et al., 2012",NA
+Panthera_uncia,Carnivora,101.5,32500,"Isler & van Schaik, 2012",NA
+Papio_anubis,Primates,152.4,13300,"Isler & van Schaik, 2012",NA
+Papio_cynocephalus,Primates,156.1,12000,"Isler & van Schaik, 2012",NA
+Papio_hamadryas,Primates,142,12020,"Boddy et al., 2012",NA
+Papio_papio,Primates,142.5,18026.05,"Isler et al., 2008; Jones et al., 2009",NA
+Papio_ursinus,Primates,165,14800,"Isler & van Schaik, 2012",NA
+Paracynictis_selousi,Carnivora,15.8,1700,"Gittleman, 1986",NA
+Paradoxurus_hermaphroditus,Carnivora,25.95,2773.5,"Boddy et al., 2012",NA
+Paradoxurus_zeylonensis,Carnivora,17.81,2720,"Gittleman, 1986",NA
+Paraechinus_hypomelas,Eulipotyphla,2.4,550,"Burger et al., 2019",NA
+Parahyaena_brunnea,Carnivora,106.7,39300,"Isler & van Schaik, 2012",NA
+Paramelomys_levipes,Rodentia,1.86,83.4,"Boddy et al., 2012",NA
+Paramelomys_rubex,Rodentia,1.27,49.7,"Boddy et al., 2012",NA
+Parantechinus_apicalis,Dasyuromorphia,1.2,69,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Paranyctimene_raptor,Chiroptera,0.73,26.1,"Jones & MacLarnon, 2004",NA
+Paraxerus_cepapi,Rodentia,2.85,216,"Boddy et al., 2012",NA
+Pecari_tajacu,Artiodactyla,101.5,18309,"Isler & van Schaik, 2012",NA
+Pectinator_spekei,Rodentia,1.93,180,"Boddy et al., 2012",NA
+Pedetes_capensis,Rodentia,11.09,3156.5,"Bernard & Nurton, 1993",NA
+Pelea_capreolus,Artiodactyla,121,24000,"Isler & van Schaik, 2012",NA
+Penthetor_lucasi,Chiroptera,0.95,35,"Jones & MacLarnon, 2004",NA
+Peponocephala_electra,Cetacea,1418,206000,"Ridway et al., 2017; Faurby et al., 2018",NA
+Perameles_bougainville,Peramelemorphia,3.21,226,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Perameles_gunnii,Peramelemorphia,4.5,750,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Perameles_nasuta,Peramelemorphia,4.96,960,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Perodicticus_potto,Primates,12.07,929.33,"Boddy et al., 2012",NA
+Perognathus_flavus,Rodentia,0.31,8.4,"Boddy et al., 2012",NA
+Perognathus_longimembris,Rodentia,0.33,8.15,"Boddy et al., 2012",NA
+Perognathus_parvus,Rodentia,0.49,17.3,"Boddy et al., 2012",NA
+Peromyscus_aztecus,Rodentia,0.92,39.73,"Boddy et al., 2012",NA
+Peromyscus_boylii,Rodentia,0.71,27.47,"Boddy et al., 2012",NA
+Peromyscus_californicus,Rodentia,0.91,43.53,"Boddy et al., 2012",NA
+Peromyscus_crinitus,Rodentia,0.53,13.56,"Boddy et al., 2012",NA
+Peromyscus_difficilis,Rodentia,0.9,39.45,"Mace & Eisenberg, 1982",NA
+Peromyscus_eremicus,Rodentia,0.54,19.93,"Boddy et al., 2012",NA
+Peromyscus_furvus,Rodentia,1.06,56.01,"Mace & Eisenberg, 1982",NA
+Peromyscus_gossypinus,Rodentia,0.68,28.25,"Boddy et al., 2012",NA
+Peromyscus_grandis,Rodentia,1.53,77.32,"Boddy et al., 2012",NA
+Peromyscus_guatemalensis,Rodentia,1.16,52.83,"Boddy et al., 2012",NA
+Peromyscus_leucopus,Rodentia,0.6,21.21,"Boddy et al., 2012",NA
+Peromyscus_maniculatus,Rodentia,0.57,21.65,"Boddy et al., 2012",NA
+Peromyscus_megalops,Rodentia,1.12,66.2,"Boddy et al., 2012",NA
+Peromyscus_melanocarpus,Rodentia,1.03,58.8,"Boddy et al., 2012",NA
+Peromyscus_melanophrys,Rodentia,0.94,45,"Boddy et al., 2012",NA
+Peromyscus_melanotis,Rodentia,0.63,39.6,"Boddy et al., 2012",NA
+Peromyscus_merriami,Rodentia,0.56,20.72,"Boddy et al., 2012",NA
+Peromyscus_mexicanus,Rodentia,1.02,46.55,"Boddy et al., 2012",NA
+Peromyscus_pectoralis,Rodentia,0.65,26.36,"Mace & Eisenberg, 1982",NA
+Peromyscus_polionotus,Rodentia,0.42,13.32,"Boddy et al., 2012",NA
+Peromyscus_truei,Rodentia,0.75,27.35,"Boddy et al., 2012",NA
+Peromyscus_yucatanicus,Rodentia,0.7,26.3,"Boddy et al., 2012",NA
+Peromyscus_zarhynchus,Rodentia,1.3,84.02,"Isler & van Schaik, 2009",NA
+Peropteryx_macrotis,Chiroptera,0.16,5.4,"Shi et al., 2018","Faurby et al., 2018"
+Peropteryx_trinitatis,Chiroptera,0.15,5.4,"Jones & MacLarnon, 2004",NA
+Peroryctes_raffrayana,Peramelemorphia,6.33,830,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petaurista_elegans,Rodentia,7.76,924,"Boddy et al., 2012",NA
+Petaurista_petaurista,Rodentia,11.77,1811.5,"Boddy et al., 2012",NA
+Petauroides_volans,Diprotodontia,4.69,1700,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petaurus_abidi,Diprotodontia,3.83,284,"Ashwell, 2008",NA
+Petaurus_australis,Diprotodontia,5.71,555,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petaurus_biacensis,Diprotodontia,1.68,84.5,"Ashwell, 2008",NA
+Petaurus_breviceps,Diprotodontia,2.09,127.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petaurus_norfolcensis,Diprotodontia,3.02,230,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petinomys_genibarbis,Rodentia,2.64,110,"Isler & van Schaik, 2009",NA
+Petinomys_vordermanni,Rodentia,1.37,41.5,"Isler & van Schaik, 2009",NA
+Petrogale_assimilis,Diprotodontia,17.5,4500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_brachyotis,Diprotodontia,15.75,4050,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_concinna,Diprotodontia,11,1350,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_godmani,Diprotodontia,18,4750,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_herberti,Diprotodontia,21.2,5150,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_inornata,Diprotodontia,17,4600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_lateralis,Diprotodontia,19.2,4600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_mareeba,Diprotodontia,17,4150,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_penicillata,Diprotodontia,23.9,7100,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_persephone,Diprotodontia,21.5,6200,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petrogale_xanthopus,Diprotodontia,23,7500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Petropseudes_dahli,Diprotodontia,5.04,2000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phacochoerus_aethiopicus,Artiodactyla,125,65320,"Boddy et al., 2012",NA
+Phacochoerus_africanus,Artiodactyla,132.5,67000,"Shultz & Dunbar, 2010",NA
+Phalanger_carmelitae,Diprotodontia,8.49,1000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_gymnotis,Diprotodontia,13,2700,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_intercastellanus,Diprotodontia,7.35,1434,"Ashwell, 2008",NA
+Phalanger_lullulae,Diprotodontia,6.09,1632.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_mimicus,Diprotodontia,8.13,2000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_orientalis,Diprotodontia,7.37,2500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_ornatus,Diprotodontia,7.02,1800,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_rothschildi,Diprotodontia,6.14,1244,"Ashwell, 2008",NA
+Phalanger_sericeus,Diprotodontia,9.96,2003,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phalanger_vestitus,Diprotodontia,9.54,1850,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phaner_electromontis,Primates,7.2,400,"Isler et al., 2008",NA
+Phaner_furcifer,Primates,6.47,460,"Kirk, 2006",NA
+Phaner_pallescens,Primates,6.68,339,"Isler et al., 2008",NA
+Phascogale_calura,Dasyuromorphia,0.91,51.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phascogale_tapoatafa,Dasyuromorphia,1.81,193.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phascolarctos_cinereus,Diprotodontia,20.2,5800,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phascolosorex_dorsalis,Dasyuromorphia,1.11,47.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Phataginus_tricuspis,Pholidota,9.4,1790,"Isler & van Schaik, 2012",NA
+Philander_opossum,Didelphimorphia,3.83,450,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Philantomba_maxwellii,Artiodactyla,38,3357,"Isler & van Schaik, 2012",NA
+Philantomba_monticola,Artiodactyla,48,5650,"Perez-Barbería et al., 2007",NA
+Philetor_brachypterus,Chiroptera,0.19,10.9,"Shi et al., 2018","Faurby et al., 2018"
+Phoca_largha,Carnivora,253.75,91500,"Boddy et al., 2012",NA
+Phoca_vitulina,Carnivora,315,73635,"Boddy et al., 2012",NA
+Phocarctos_hookeri,Carnivora,393.75,273500,"Boddy et al., 2012",NA
+Phocoena_phocoena,Cetacea,1735,142430,"Boddy et al., 2012",NA
+Phocoena_sinus,Cetacea,1999,42500,"Merino et al., 2006",NA
+Phocoena_spinipinnis,Cetacea,597,68041.9,"Montgomery et al., 2013",NA
+Phocoenoides_dalli,Cetacea,833.67,98333.33,"Boddy et al., 2012",NA
+Phoniscus_atrox,Chiroptera,0.19,4.2,"Jones & MacLarnon, 2004",NA
+Phylloderma_stenops,Chiroptera,1.34,46.1,"Jones & MacLarnon, 2004",NA
+Phyllomys_pattoni,Rodentia,3.63,229.9,Scan,"Faurby et al., 2018"
+Phyllonycteris_aphylla,Chiroptera,0.48,24.5,"Shi et al., 2018","Faurby et al., 2018"
+Phyllonycteris_poeyi,Chiroptera,0.56,22,"Shi et al., 2018","Faurby et al., 2018"
+Phyllops_falcatus,Chiroptera,0.61,19.5,"Shi et al., 2018","Faurby et al., 2018"
+Phyllostomus_discolor,Chiroptera,1.1,35.22,"Jones & MacLarnon, 2004",NA
+Phyllostomus_elongatus,Chiroptera,0.89,44.9,"Jones & MacLarnon, 2004",NA
+Phyllostomus_hastatus,Chiroptera,1.53,90,"Jones & MacLarnon, 2004",NA
+Phyllotis_darwini,Rodentia,0.94,51.3,"Isler & van Schaik, 2009",NA
+Physeter_macrocephalus,Cetacea,8183.1,37416650.04,"Montgomery et al., 2013",NA
+Piliocolobus_badius,Primates,78,7000,"Boddy et al., 2012",NA
+Piliocolobus_kirkii,Primates,57.25,5630,"Isler et al., 2008",NA
+Piliocolobus_tephrosceles,Primates,70.95,8408.8,"Isler et al., 2008",NA
+Pipistrellus_ceylonicus,Chiroptera,0.18,10.1,"Jones & MacLarnon, 2004",NA
+Pipistrellus_coromandra,Chiroptera,0.11,4.6,"Jones & MacLarnon, 2004",NA
+Pipistrellus_crassulus,Chiroptera,0.13,6.1,"Jones & MacLarnon, 2004",NA
+Pipistrellus_hesperidus,Chiroptera,0.08,3.7,"Shi et al., 2018","Faurby et al., 2018"
+Pipistrellus_imbricatus,Chiroptera,0.14,6.8,"Burger et al., 2019",NA
+Pipistrellus_javanicus,Chiroptera,0.12,4.5,"Jones & MacLarnon, 2004",NA
+Pipistrellus_kuhlii,Chiroptera,0.17,6.3,"Jones & MacLarnon, 2004",NA
+Pipistrellus_nathusii,Chiroptera,0.14,7.3,"Shi et al., 2018","Faurby et al., 2018"
+Pipistrellus_papuanus,Chiroptera,0.11,3.34,"Patzke et al., 2013",NA
+Pipistrellus_pulveratus,Chiroptera,0.14,5.3,"Jones & MacLarnon, 2004",NA
+Pipistrellus_stenopterus,Chiroptera,0.24,16.1,"Pitnick et al., 2006",NA
+Pipistrellus_subflavus,Chiroptera,0.13,5.3,"Jones & MacLarnon, 2004",NA
+Pipistrellus_tenuis,Chiroptera,0.11,5.2,"Jones & MacLarnon, 2004",NA
+Pithecia_pithecia,Primates,32.6,1580,"Isler & van Schaik, 2012",NA
+Plagiodontia_aedium,Rodentia,6.8,2630,Scan,"Faurby et al., 2018"
+Planigale_gilesi,Dasyuromorphia,0.17,9.2,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Planigale_ingrami,Dasyuromorphia,0.15,4.25,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Planigale_maculata,Dasyuromorphia,0.2,11,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Planigale_novaeguineae,Dasyuromorphia,0.27,14.9,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Planigale_tenuirostris,Dasyuromorphia,0.14,6.05,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Platalina_genovensium,Chiroptera,0.57,47,"Shi et al., 2018","Faurby et al., 2018"
+Platanista_gangetica,Cetacea,290.5,59630,"Montgomery et al., 2013",NA
+Platyrrhinus_brachycephalus,Chiroptera,0.58,12.9,"Jones & MacLarnon, 2004",NA
+Platyrrhinus_dorsalis,Chiroptera,0.93,26,"Shi et al., 2018","Faurby et al., 2018"
+Platyrrhinus_helleri,Chiroptera,0.49,12.77,"Jones & MacLarnon, 2004",NA
+Platyrrhinus_infuscus,Chiroptera,1.11,50.3,"Jones & MacLarnon, 2004",NA
+Platyrrhinus_lineatus,Chiroptera,0.74,22.6,"Jones & MacLarnon, 2004",NA
+Platyrrhinus_vittatus,Chiroptera,1.18,36.6,"Jones & MacLarnon, 2004",NA
+Plecotus_auritus,Chiroptera,0.24,6.6,"Jones & MacLarnon, 2004",NA
+Podomys_floridanus,Rodentia,0.94,33.47,"Boddy et al., 2012",NA
+Poecilogale_albinucha,Carnivora,4.5,250,"Isler & van Schaik, 2012",NA
+Poelagus_marjorita,Lagomorpha,10.1,2509.7,"Heldstab et al., 2018",NA
+Pogonomys_macrourus,Rodentia,1.43,73.9,"Boddy et al., 2012",NA
+Pogonomys_sylvestris,Rodentia,1.13,41.2,"Boddy et al., 2012",NA
+Poliocitellus_franklinii,Rodentia,3.96,443.05,"Burger et al., 2019",NA
+Pongo_abelii,Primates,389.5,62815,"Isler et al., 2008",NA
+Pongo_pygmaeus,Primates,341.99,54229.04,"Boddy et al., 2012",NA
+Pontoporia_blainvillei,Cetacea,221,34900,"Montgomery et al., 2013",NA
+Potamochoerus_porcus,Artiodactyla,138,75000,"Perez-Barbería et al., 2007",NA
+Potamogale_velox,Afrosoricida,4.05,650,"Boddy et al., 2012",NA
+Potorous_tridactylus,Diprotodontia,9.53,1100,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Potos_flavus,Carnivora,33.08,2241.5,"Boddy et al., 2012",NA
+Praomys_daltoni,Rodentia,0.68,35,"Boddy et al., 2012",NA
+Praomys_morio,Rodentia,0.84,46.5,"Boddy et al., 2012",NA
+Praomys_tullbergi,Rodentia,0.86,37.2,"Boddy et al., 2012",NA
+Presbytis_chrysomelas,Primates,72.11,6718.67,"Isler et al., 2008",NA
+Presbytis_comata,Primates,80.3,6695,"Isler & van Schaik, 2012",NA
+Presbytis_femoralis,Primates,73.74,6847.88,"Isler et al., 2008",NA
+Presbytis_frontata,Primates,81.02,5615,"Isler et al., 2008",NA
+Presbytis_hosei,Primates,60,5630,"van Woerden et al., 2011",NA
+Presbytis_melalophos,Primates,59.2,6567,"Isler & van Schaik, 2012",NA
+Presbytis_natunae,Primates,57.19,5065,"Isler et al., 2008",NA
+Presbytis_potenziani,Primates,57,4817,"van Woerden et al., 2011",NA
+Presbytis_rubicunda,Primates,71.02,6265.6,"Isler et al., 2008",NA
+Presbytis_siamensis,Primates,60.94,5876.46,"Isler et al., 2008",NA
+Presbytis_thomasi,Primates,72.93,6730,"Isler et al., 2008",NA
+Priodontes_maximus,Xenarthra,81,60000,"Burger et al., 2019",NA
+Prionailurus_bengalensis,Carnivora,29.37,5470,"Gittleman, 1986",NA
+Prionailurus_planiceps,Carnivora,21.98,2100,"Gittleman, 1986",NA
+Prionailurus_rubiginosus,Carnivora,18.92,1420,"Gittleman, 1986",NA
+Prionailurus_viverrinus,Carnivora,46.53,8410,"Gittleman, 1986",NA
+Prionodon_linsang,Carnivora,8.5,698,"Isler & van Schaik, 2012",NA
+Prionodon_pardicolor,Carnivora,9.03,450,"Gittleman, 1986",NA
+Procavia_capensis,Hyracoidea,19.47,2321.67,"Boddy et al., 2012",NA
+Procolobus_verus,Primates,52.6,4450,"Isler et al., 2008",NA
+Procyon_cancrivorus,Carnivora,61.56,6931.72,"Patzke et al., 2013; Jones et al., 2009",NA
+Procyon_lotor,Carnivora,41.07,4975.67,"Boddy et al., 2012",NA
+Proechimys_brevicauda,Rodentia,2.95,285,"Stankowich & Romero, 2017",NA
+Proechimys_semispinosus,Rodentia,6.87,544.75,"Boddy et al., 2012",NA
+Prolemur_simus,Primates,27.14,2150,"Isler et al., 2008",NA
+Promops_centralis,Chiroptera,0.45,26.4,"Shi et al., 2018","Faurby et al., 2018"
+Promops_nasutus,Chiroptera,0.39,15.2,"Shi et al., 2018","Faurby et al., 2018"
+Propithecus_coquereli,Primates,30.19,3728.5,"Isler et al., 2008",NA
+Propithecus_deckenii,Primates,30.15,3531.67,"Isler et al., 2008",NA
+Propithecus_diadema,Primates,39.8,6130,"Isler et al., 2008",NA
+Propithecus_edwardsi,Primates,39.5,5682,"Isler & van Schaik, 2012",NA
+Propithecus_verreauxi,Primates,26.7,3480,"Boddy et al., 2012",NA
+Proteles_cristata,Carnivora,35.2,8820,"Isler & van Schaik, 2012",NA
+Protoxerus_stangeri,Rodentia,11.33,639.5,"Stankowich & Romero, 2017",NA
+Psammomys_obesus,Rodentia,1.3,69.1,"Isler & van Schaik, 2012",NA
+Pseudantechinus_bilarni,Dasyuromorphia,0.65,27.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudantechinus_macdonnellensis,Dasyuromorphia,0.49,32.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudantechinus_roryi,Dasyuromorphia,0.42,23.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudocheirus_peregrinus,Diprotodontia,4.52,900,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirops_albertisii,Diprotodontia,4.68,784.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirops_archeri,Diprotodontia,5.87,1095,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirops_corinnae,Diprotodontia,5.36,1123,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirops_coronatus,Diprotodontia,5.13,1500,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirops_cupreus,Diprotodontia,7.54,1700,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_canescens,Diprotodontia,1.8,300,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_caroli,Diprotodontia,3.2,440,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_forbesi,Diprotodontia,3.36,650,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_herbertensis,Diprotodontia,4.32,1115,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_mayeri,Diprotodontia,2.01,151.75,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudochirulus_schlegeli,Diprotodontia,2.8,274,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Pseudomys_australis,Rodentia,1.16,50,"Boddy et al., 2012",NA
+Pseudomys_delicatulus,Rodentia,0.41,9.4,"Isler & van Schaik, 2009",NA
+Pseudomys_hermannsburgensis,Rodentia,1.08,13.38,"Isler & van Schaik, 2006",NA
+Pseudomys_higginsi,Rodentia,1.32,63.25,"Buddy et al., 2012",NA
+Pseudorca_crassidens,Cetacea,4307,2000000,"Boddy et al., 2012",NA
+Ptenochirus_minor,Chiroptera,1.07,36.3,"Shi et al., 2018","Faurby et al., 2018"
+Pteralopex_atrata,Chiroptera,6.22,472,Scan,NA
+Pteromys_volans,Rodentia,1.95,59.23,"Heldstab et al., 2018",NA
+Pteromyscus_pulverulentus,Rodentia,3.55,400,"Boddy et al., 2012",NA
+Pteronotus_davyi,Chiroptera,0.32,10.6,"Jones & MacLarnon, 2004",NA
+Pteronotus_gymnonotus,Chiroptera,0.34,13.6,"Jones & MacLarnon, 2004",NA
+Pteronotus_macleayii,Chiroptera,0.18,5.4,"Shi et al., 2018","Faurby et al., 2018"
+Pteronotus_parnellii,Chiroptera,0.53,19.1,"Jones & MacLarnon, 2004",NA
+Pteronotus_personatus,Chiroptera,0.23,7.8,"Jones & MacLarnon, 2004",NA
+Pteronura_brasiliensis,Carnivora,85.6,24000,"Isler & van Schaik, 2012",NA
+Pteropus_admiralitatum,Chiroptera,4.18,299.9,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_alecto,Chiroptera,7.04,595,"Jones & MacLarnon, 2004",NA
+Pteropus_capistratus,Chiroptera,4.74,223,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_conspicillatus,Chiroptera,8.35,750,"Jones & MacLarnon, 2004",NA
+Pteropus_giganteus,Chiroptera,7.78,577,"Jones & MacLarnon, 2004",NA
+Pteropus_hypomelanus,Chiroptera,5.3,390,"Jones & MacLarnon, 2004",NA
+Pteropus_livingstonii,Chiroptera,8.07,588.5,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_lylei,Chiroptera,6.13,316.67,"Jones & MacLarnon, 2004",NA
+Pteropus_macrotis,Chiroptera,6.13,366,"Jones & MacLarnon, 2004",NA
+Pteropus_mahaganus,Chiroptera,5.28,465,"Jones & MacLarnon, 2004",NA
+Pteropus_mariannus,Chiroptera,5.69,453.5,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_melanopogon,Chiroptera,10.22,860,Scan,NA
+Pteropus_melanotus,Chiroptera,10.6,1261.4,"Burger et al., 2019",NA
+Pteropus_molossinus,Chiroptera,2.64,178,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_neohibernicus,Chiroptera,9.11,840,"Jones & MacLarnon, 2004",NA
+Pteropus_ornatus,Chiroptera,6.67,330,"Shi et al., 2018","Faurby et al., 2018"
+Pteropus_poliocephalus,Chiroptera,7.23,695,"Jones & MacLarnon, 2004",NA
+Pteropus_rayneri,Chiroptera,9.93,724.5,Scan,NA
+Pteropus_rufus,Chiroptera,7.25,338.83,"Jones & MacLarnon, 2004",NA
+Pteropus_samoensis,Chiroptera,5.79,310,"Jones & MacLarnon, 2004",NA
+Pteropus_scapulatus,Chiroptera,5.36,375,"Jones & MacLarnon, 2004",NA
+Pteropus_temminckii,Chiroptera,4.89,250,"Jones & MacLarnon, 2004",NA
+Pteropus_tonganus,Chiroptera,6.08,428.75,"Jones & MacLarnon, 2004",NA
+Pteropus_vampyrus,Chiroptera,9.65,1078.07,"Jones & MacLarnon, 2004",NA
+Pudu_puda,Artiodactyla,63,9642.62,"Heldstab et al., 2018",NA
+Puma_concolor,Carnivora,154,54432,"Boddy et al., 2012",NA
+Pusa_caspica,Carnivora,162.5,62750,"Boddy et al., 2012",NA
+Pusa_hispida,Carnivora,196.25,69085,"Boddy et al., 2012",NA
+Pusa_sibirica,Carnivora,187.5,89500,"Boddy et al., 2012",NA
+Pygathrix_nemaeus,Primates,77,7500,"Boddy et al., 2012",NA
+Pygathrix_nigripes,Primates,82.75,10333.32,"Isler et al., 2008; Jones et al., 2009",NA
+Pygoderma_bilabiatum,Chiroptera,0.54,18.5,"Shi et al., 2018","Faurby et al., 2018"
+Rangifer_tarandus,Artiodactyla,278,71700,"Boddy et al., 2012",NA
+Raphicerus_campestris,Artiodactyla,51.3,10200,"Isler & van Schaik, 2012",NA
+Raphicerus_melanotis,Artiodactyla,55,10100,"Perez-Barbería et al., 2007",NA
+Rattus_exulans,Rodentia,0.89,60.3,"Boddy et al., 2012",NA
+Rattus_fuscipes,Rodentia,1.69,122,"Boddy et al., 2012",NA
+Rattus_lutreolus,Rodentia,1.64,92.7,"Boddy et al., 2012",NA
+Rattus_morotaiensis,Rodentia,1.92,134.1,"Boddy et al., 2012",NA
+Rattus_niobe,Rodentia,1.1,42.1,"Boddy et al., 2012",NA
+Rattus_nitidus,Rodentia,1.7,101,"Boddy et al., 2012",NA
+Rattus_norvegicus,Rodentia,8.03,359.5,"Boddy et al., 2012",NA
+Rattus_rattus,Rodentia,1.4,150,"Isler & van Schaik, 2012",NA
+Rattus_sordidus,Rodentia,1.7,120.67,"Boddy et al., 2012",NA
+Rattus_tunneyi,Rodentia,1.41,76.2,"Boddy et al., 2012",NA
+Rattus_verecundus,Rodentia,1.48,59.4,"Boddy et al., 2012",NA
+Ratufa_affinis,Rodentia,9.85,982.5,"Boddy et al., 2012",NA
+Ratufa_bicolor,Rodentia,11.01,1320,"Boddy et al., 2012",NA
+Ratufa_indica,Rodentia,11.4,1935,"Boddy et al., 2012",NA
+Redunca_arundinum,Artiodactyla,136.8,38200,"Isler & van Schaik, 2012",NA
+Redunca_fulvorufula,Artiodactyla,109,31000,"Perez-Barbería et al., 2007",NA
+Redunca_redunca,Artiodactyla,123,47500,"Perez-Barbería et al., 2007",NA
+Reithrodontomys_megalotis,Rodentia,0.4,10.7,"Boddy et al., 2012",NA
+Rhabdomys_pumilio,Rodentia,0.69,39.71,"Boddy et al., 2012",NA
+Rhinoceros_unicornis,Perissodactyla,786,2250000,"Perez-Barbería et al., 2007",NA
+Rhinolophus_acuminatus,Chiroptera,0.3,12.1,"Jones & MacLarnon, 2004",NA
+Rhinolophus_affinis,Chiroptera,0.35,13.5,"Jones & MacLarnon, 2004",NA
+Rhinolophus_capensis,Chiroptera,0.26,12.8,"Jones & MacLarnon, 2004",NA
+Rhinolophus_clivosus,Chiroptera,0.24,20.1,"Jones & MacLarnon, 2004",NA
+Rhinolophus_coelophyllus,Chiroptera,0.26,7.7,"Jones & MacLarnon, 2004",NA
+Rhinolophus_eloquens,Chiroptera,0.4,19.05,"Jones & MacLarnon, 2004",NA
+Rhinolophus_ferrumequinum,Chiroptera,0.35,23.5,"Jones & MacLarnon, 2004",NA
+Rhinolophus_hildebrandtii,Chiroptera,0.63,29.1,"Jones & MacLarnon, 2004",NA
+Rhinolophus_hipposideros,Chiroptera,0.15,4.55,"Jones & MacLarnon, 2004",NA
+Rhinolophus_landeri,Chiroptera,0.28,9.65,"Jones & MacLarnon, 2004",NA
+Rhinolophus_lepidus,Chiroptera,0.19,5.6,"Jones & MacLarnon, 2004",NA
+Rhinolophus_luctus,Chiroptera,0.59,33.9,"Jones & MacLarnon, 2004",NA
+Rhinolophus_macrotis,Chiroptera,0.21,6.3,"Jones & MacLarnon, 2004",NA
+Rhinolophus_malayanus,Chiroptera,0.2,6.4,"Jones & MacLarnon, 2004",NA
+Rhinolophus_megaphyllus,Chiroptera,0.26,9.8,"Jones & MacLarnon, 2004",NA
+Rhinolophus_mehelyi,Chiroptera,0.31,9.7,"Jones & MacLarnon, 2004",NA
+Rhinolophus_paradoxolophus,Chiroptera,0.27,9.3,"Jones & MacLarnon, 2004",NA
+Rhinolophus_pearsonii,Chiroptera,0.33,13.9,"Jones & MacLarnon, 2004",NA
+Rhinolophus_pusillus,Chiroptera,0.16,4.7,"Jones & MacLarnon, 2004",NA
+Rhinolophus_robinsoni,Chiroptera,0.28,8.5,"Jones & MacLarnon, 2004",NA
+Rhinolophus_stheno,Chiroptera,0.29,8.5,"Jones & MacLarnon, 2004",NA
+Rhinolophus_thomasi,Chiroptera,0.23,9,"Jones & MacLarnon, 2004",NA
+Rhinolophus_trifoliatus,Chiroptera,0.35,14.8,"Jones & MacLarnon, 2004",NA
+Rhinolophus_yunanensis,Chiroptera,0.44,23.5,"Jones & MacLarnon, 2004",NA
+Rhinonicteris_aurantia,Chiroptera,0.25,8.65,"Jones & MacLarnon, 2004",NA
+Rhinophylla_fischerae,Chiroptera,0.27,10.6,"Shi et al., 2018","Faurby et al., 2018"
+Rhinophylla_pumilio,Chiroptera,0.36,8.9,"Jones & MacLarnon, 2004",NA
+Rhinopithecus_bieti,Primates,114.71,9100,"van Woerden et al., 2010; Heldstab et al., 2018",NA
+Rhinopithecus_roxellana,Primates,117.76,14750,"Isler et al., 2008",NA
+Rhinopoma_hardwickii,Chiroptera,0.28,12.9,"Jones & MacLarnon, 2004",NA
+Rhinopoma_microphyllum,Chiroptera,0.4,27.1,"Jones & MacLarnon, 2004",NA
+Rhinosciurus_laticaudatus,Rodentia,4.28,240,"Boddy et al., 2012",NA
+Rhogeessa_parvula,Chiroptera,0.11,4.35,"Jones & MacLarnon, 2004",NA
+Rhogeessa_tumida,Chiroptera,0.11,5.05,"Jones & MacLarnon, 2004",NA
+Rhynchocyon_cirnei,Macroscelidea,5.9,507.5,"Boddy et al., 2012",NA
+Rhynchocyon_petersi,Macroscelidea,5.4,370,"Boddy et al., 2012",NA
+Rhynchogale_melleri,Carnivora,16.95,2720,"Gittleman, 1986",NA
+Rhyncholestes_raphanurus,Paucituberculata,0.65,23.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Rhynchomeles_prattorum,Peramelemorphia,4.9,907,"Ashwell, 2008",NA
+Rhynchonycteris_naso,Chiroptera,0.11,4.3,"Jones & MacLarnon, 2004",NA
+Romerolagus_diazi,Lagomorpha,4.38,465.58,"Heldstab et al., 2018",NA
+Rousettus_aegyptiacus,Chiroptera,2.26,129.62,"Jones & MacLarnon, 2004",NA
+Rousettus_amplexicaudatus,Chiroptera,1.63,80.38,"Jones & MacLarnon, 2004",NA
+Rousettus_lanosus,Chiroptera,2.37,103,Scan,NA
+Rousettus_leschenaultii,Chiroptera,1.59,97.1,Scan,"Faurby et al., 2018"
+Rupicapra_rupicapra,Artiodactyla,117.8,27167,"Isler & van Schaik, 2012",NA
+Rusa_unicolor,Artiodactyla,355,162000,"Heldstab et al., 2018",NA
+Saccolaimus_saccolaimus,Chiroptera,0.67,43,"Jones & MacLarnon, 2004",NA
+Saccopteryx_bilineata,Chiroptera,0.23,7.78,"Jones & MacLarnon, 2004",NA
+Saccopteryx_canescens,Chiroptera,0.13,3.4,"Jones & MacLarnon, 2004",NA
+Saccopteryx_leptura,Chiroptera,0.16,4.9,"Jones & MacLarnon, 2004",NA
+Saccostomus_campestris,Rodentia,0.82,49.35,"Boddy et al., 2012",NA
+Saguinus_fuscicollis,Primates,7.9,401,"Isler & van Schaik, 2012",NA
+Saguinus_geoffroyi,Primates,14.27,634.67,"Boddy et al., 2012",NA
+Saguinus_labiatus,Primates,10.01,520,"Isler et al., 2008",NA
+Saguinus_leucopus,Primates,9.7,524.5,"Isler et al., 2008",NA
+Saguinus_midas,Primates,9.78,563,"Isler et al., 2008",NA
+Saguinus_mystax,Primates,11.1,584,"Isler & van Schaik, 2012",NA
+Saguinus_niger,Primates,9.48,375,"Isler et al., 2008",NA
+Saguinus_nigricollis,Primates,8.9,476,"Isler & van Schaik, 2012",NA
+Saguinus_oedipus,Primates,9.64,327.14,"Boddy et al., 2012",NA
+Saiga_tatarica,Artiodactyla,96.67,40000,"Heldstab et al., 2018",NA
+Saimiri_boliviensis,Primates,24.06,750,"Boddy et al., 2012",NA
+Saimiri_oerstedii,Primates,22.45,605,"Boddy et al., 2012",NA
+Saimiri_sciureus,Primates,23.35,578.7,"Boddy et al., 2012",NA
+Salanoia_concolor,Carnivora,11.02,780,"Gittleman, 1986",NA
+Sapajus_apella,Primates,71.3,2589,"Boddy et al., 2012",NA
+Sapajus_libidinosus,Primates,64.69,2509.78,"Isler et al., 2008",NA
+Sapajus_nigritus,Primates,67.07,2730.83,"Isler et al., 2008",NA
+Sapajus_xanthosternos,Primates,66.09,2440.48,"Isler et al., 2008",NA
+Sarcophilus_harrisii,Dasyuromorphia,16.09,8000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Scalopus_aquaticus,Eulipotyphla,1.48,39.6,"Boddy et al., 2012",NA
+Scapanus_townsendii,Eulipotyphla,2.02,70,"Boddy et al., 2012",NA
+Sciurocheirus_alleni,Primates,5.85,273,"Kirk, 2006",NA
+Sciurocheirus_gabonensis,Primates,5.36,273,"Isler et al., 2008",NA
+Sciurus_aberti,Rodentia,7.44,626.5,"Burger et al., 2019",NA
+Sciurus_anomalus,Rodentia,5.56,256,"Isler & van Schaik, 2009",NA
+Sciurus_aureogaster,Rodentia,7.81,595,"Boddy et al., 2012",NA
+Sciurus_carolinensis,Rodentia,7.41,503.17,"Boddy et al., 2012",NA
+Sciurus_granatensis,Rodentia,5.91,400,"Boddy et al., 2012",NA
+Sciurus_niger,Rodentia,7.91,516.32,"Boddy et al., 2012",NA
+Sciurus_vulgaris,Rodentia,5.93,327.4,"Boddy et al., 2012",NA
+Scotinomys_teguina,Rodentia,0.42,10.6,"Isler & van Schaik, 2009",NA
+Scotinomys_xerampelinus,Rodentia,0.52,15.2,"Isler & van Schaik, 2009",NA
+Scotomanes_ornatus,Chiroptera,0.38,21.8,"Jones & MacLarnon, 2004",NA
+Scotonycteris_zenkeri,Chiroptera,0.71,21.35,"Jones & MacLarnon, 2004",NA
+Scotophilus_dinganii,Chiroptera,0.44,24.3,"Jones & MacLarnon, 2004",NA
+Scotophilus_heathii,Chiroptera,0.48,31.5,"Jones & MacLarnon, 2004",NA
+Scotophilus_kuhlii,Chiroptera,0.34,19.6,"Jones & MacLarnon, 2004",NA
+Scotophilus_nigrita,Chiroptera,1.05,101,"Jones & MacLarnon, 2004",NA
+Scotorepens_sanborni,Chiroptera,0.16,9.1,"Jones & MacLarnon, 2004",NA
+Scotozous_dormeri,Chiroptera,0.14,6.8,"Jones & MacLarnon, 2004",NA
+Semnopithecus_ajax,Primates,132.06,16329.75,"Isler et al., 2008",NA
+Semnopithecus_dussumieri,Primates,90.09,10664.29,"Isler et al., 2008",NA
+Semnopithecus_entellus,Primates,111.5,7010,"Boddy et al., 2012",NA
+Semnopithecus_hypoleucos,Primates,88.3,10130,"Isler & van Schaik, 2012",NA
+Semnopithecus_priam,Primates,83.07,8561.57,"Isler et al., 2008",NA
+Semnopithecus_schistaceus,Primates,129.25,17000,"Isler et al., 2008",NA
+Setifer_setosus,Afrosoricida,1.51,248,"Boddy et al., 2012",NA
+Setonix_brachyurus,Diprotodontia,13.9,3250,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sigmodon_hispidus,Rodentia,1.14,132.5,"Boddy et al., 2012",NA
+Simias_concolor,Primates,56.2,6800,"Isler & van Schaik, 2012",NA
+Sminthopsis_bindi,Dasyuromorphia,0.35,13,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_butleri,Dasyuromorphia,0.35,13,"Ashwell, 2008; Heldstab et al., 2018",NA
+Sminthopsis_crassicaudata,Dasyuromorphia,0.36,15,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_douglasi,Dasyuromorphia,0.35,55,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_griseoventer,Dasyuromorphia,0.49,17.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_hirtipes,Dasyuromorphia,0.41,19,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_leucopus,Dasyuromorphia,0.41,22.5,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_macroura,Dasyuromorphia,0.4,20,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_murina,Dasyuromorphia,0.44,17,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Sminthopsis_virginiae,Dasyuromorphia,0.34,46,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Solenodon_paradoxus,Eulipotyphla,4.67,900,"Boddy et al., 2012",NA
+Sorex_araneus,Eulipotyphla,0.23,8.9,"Boddy et al., 2012",NA
+Sorex_arcticus,Eulipotyphla,0.27,8.2,"Boddy et al., 2012",NA
+Sorex_cinereus,Eulipotyphla,0.17,3.9,"Boddy et al., 2012",NA
+Sorex_fumeus,Eulipotyphla,0.21,8.9,"Boddy et al., 2012",NA
+Sorex_hoyi,Eulipotyphla,0.09,3.05,"Boddy et al., 2012",NA
+Sorex_longirostris,Eulipotyphla,0.1,3.1,"Isler & van Schaik, 2009",NA
+Sorex_minutus,Eulipotyphla,0.13,4.6,"Boddy et al., 2012",NA
+Sorex_monticolus,Eulipotyphla,0.23,6.3,"Boddy et al., 2012",NA
+Sorex_ornatus,Eulipotyphla,0.12,5,"Boddy et al., 2012",NA
+Sorex_pacificus,Eulipotyphla,0.29,10.2,"Isler & van Schaik, 2009",NA
+Sorex_palustris,Eulipotyphla,0.31,11.9,"Boddy et al., 2012",NA
+Sorex_trowbridgii,Eulipotyphla,0.21,5.3,"Boddy et al., 2012",NA
+Sorex_vagrans,Eulipotyphla,0.17,5.3,"Boddy et al., 2012",NA
+Sotalia_fluviatilis,Cetacea,688,42240,"Montgomery et al., 2013",NA
+Spalacopus_cyanus,Rodentia,1.58,93,"Boddy et al., 2012",NA
+Spalax_ehrenbergi,Rodentia,1.88,197,"Boddy et al., 2012",NA
+Spalax_leucodon,Rodentia,3,122,"Burger et al., 2019",NA
+Speothos_venaticus,Carnivora,40.5,5990,"Isler & van Schaik, 2012",NA
+Spermophilopsis_leptodactylus,Rodentia,6.18,495,"Boddy et al., 2012",NA
+Spermophilus_alashanicus,Rodentia,2.89,200,"Mateju, 2016",NA
+Spermophilus_citellus,Rodentia,2.89,288.5,"Mateju, 2016",NA
+Spermophilus_dauricus,Rodentia,2.75,223.8,"Mateju, 2016",NA
+Spermophilus_erythrogenys,Rodentia,3.44,351,"Mateju, 2016",NA
+Spermophilus_fulvus,Rodentia,4.55,720,"Mateju, 2016",NA
+Spermophilus_major,Rodentia,4.12,535,"Mateju, 2016",NA
+Spermophilus_musicus,Rodentia,2.62,136,"Mateju, 2016",NA
+Spermophilus_pygmaeus,Rodentia,2.44,235.2,"Mateju, 2016",NA
+Spermophilus_relictus,Rodentia,3.49,340.5,"Mateju, 2016",NA
+Spermophilus_suslicus,Rodentia,2.55,218.2,"Mateju, 2016",NA
+Spermophilus_xanthoprymnus,Rodentia,3.04,267.9,"Mateju, 2016",NA
+Sphaerias_blanfordi,Chiroptera,0.83,29.5,"Jones & MacLarnon, 2004",NA
+Sphaeronycteris_toxophyllum,Chiroptera,0.54,17.55,"Jones & MacLarnon, 2004",NA
+Spilocuscus_kraemeri,Diprotodontia,11.5,1547,"Ashwell, 2008",NA
+Spilocuscus_maculatus,Diprotodontia,13.4,3815,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Spilocuscus_rufoniger,Diprotodontia,16.8,6000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Spilogale_gracilis,Carnivora,6.81,420,"Stankowich & Romero, 2017",NA
+Spilogale_putorius,Carnivora,5,326,"Isler & van Schaik, 2012",NA
+Stenella_attenuata,Cetacea,779.83,65614.53,"Barton & Capellini, 2011",NA
+Stenella_clymene,Cetacea,666,86000,"Montgomery et al., 2013",NA
+Stenella_coeruleoalba,Cetacea,883.75,63500,"Boddy et al., 2012",NA
+Stenella_frontalis,Cetacea,726,110000,"Perrin, 2002; Faurby et al., 2018",NA
+Stenella_longirostris,Cetacea,450,33600,"Boddy et al., 2012",NA
+Steno_bredanensis,Cetacea,1541.9,123830.9,"Montgomery et al., 2013",NA
+Stenoderma_rufum,Chiroptera,0.63,20.7,"Shi et al., 2018","Faurby et al., 2018"
+Strigocuscus_pelengensis,Diprotodontia,6.22,991,"Ashwell, 2008",NA
+Sturnira_bidens,Chiroptera,0.49,17.6,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_bogotensis,Chiroptera,0.58,20.8,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_lilium,Chiroptera,0.58,18.67,"Jones & MacLarnon, 2004",NA
+Sturnira_ludovici,Chiroptera,0.68,25.9,"Jones & MacLarnon, 2004",NA
+Sturnira_magna,Chiroptera,0.89,48.6,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_mordax,Chiroptera,0.65,25.1,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_nana,Chiroptera,0.35,10.9,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_oporaphilum,Chiroptera,0.57,26.5,"Shi et al., 2018","Faurby et al., 2018"
+Sturnira_tildae,Chiroptera,0.73,24,"Jones & MacLarnon, 2004",NA
+Styloctenium_wallacei,Chiroptera,3.4,173,Scan,NA
+Suncus_etruscus,Eulipotyphla,0.07,2.24,"Boddy et al., 2012",NA
+Suncus_megalura,Eulipotyphla,0.16,5.25,"Heldstab et al., 2018",NA
+Suncus_murinus,Eulipotyphla,0.39,35,"Boddy et al., 2012",NA
+Sundamys_muelleri,Rodentia,3.5,311.6,"Isler & van Schaik, 2009",NA
+Surdisorex_polulus,Eulipotyphla,0.4,18.6,"Boddy et al., 2012",NA
+Suricata_suricatta,Carnivora,10.3,725,"Isler & van Schaik, 2012",NA
+Sus_scrofa,Artiodactyla,169.8,86772.73,"Boddy et al., 2012",NA
+Syconycteris_australis,Chiroptera,0.59,15.84,"Jones & MacLarnon, 2004",NA
+Sylvicapra_grimmia,Artiodactyla,77.2,12625,"Isler & van Schaik, 2012",NA
+Sylvilagus_audubonii,Lagomorpha,6.07,792.5,"Boddy et al., 2012",NA
+Sylvilagus_bachmani,Lagomorpha,6.58,712.4,"Boddy et al., 2012",NA
+Sylvilagus_brasiliensis,Lagomorpha,4.5,439,"Boddy et al., 2012",NA
+Sylvilagus_cunicularius,Lagomorpha,7.92,2489.54,"Heldstab et al., 2018",NA
+Sylvilagus_floridanus,Lagomorpha,7.56,1036,"Boddy et al., 2012",NA
+Sylvilagus_nuttallii,Lagomorpha,6.5,801.54,"Heldstab et al., 2018",NA
+Sylvilagus_palustris,Lagomorpha,7,1355.23,"Heldstab et al., 2018",NA
+Sylvilagus_transitionalis,Lagomorpha,7.17,813.51,"Heldstab et al., 2018",NA
+Sylvisorex_lunaris,Eulipotyphla,0.34,18.5,"Heldstab et al., 2018",NA
+Symphalangus_syndactylus,Primates,134.8,12172,"Boddy et al., 2012",NA
+Synaptomys_cooperi,Rodentia,0.59,23.8,"Boddy et al., 2012",NA
+Syncerus_caffer,Artiodactyla,647.5,665440,"Boddy et al., 2012",NA
+Tachyglossus_aculeatus,Monotremata,20.73,4250,"Boddy et al., 2012",NA
+Tachyoryctes_splendens,Rodentia,1.88,234,"Boddy et al., 2012",NA
+Tadarida_aegyptiaca,Chiroptera,0.39,17.7,"Jones & MacLarnon, 2004",NA
+Tadarida_brasiliensis,Chiroptera,0.22,12.5,"Shi et al., 2018","Faurby et al., 2018"
+Tadarida_fulminans,Chiroptera,0.25,35.3,"Shi et al., 2018","Faurby et al., 2018"
+Tadarida_teniotis,Chiroptera,0.58,27,"Shi et al., 2018","Faurby et al., 2018"
+Talpa_europaea,Eulipotyphla,1.4,77.83,"Boddy et al., 2012",NA
+Tamandua_tetradactyla,Xenarthra,27.5,4361,"Boddy et al., 2012",NA
+Tamias_striatus,Rodentia,2.17,94.3,"Boddy et al., 2012",NA
+Tamiasciurus_hudsonicus,Rodentia,3.83,188.9,"Boddy et al., 2012",NA
+Tamiops_macclellandii,Rodentia,1.95,39,"Boddy et al., 2012",NA
+Taphozous_australis,Chiroptera,0.5,22.9,"Jones & MacLarnon, 2004",NA
+Taphozous_hildegardeae,Chiroptera,0.54,27.45,"Jones & MacLarnon, 2004",NA
+Taphozous_longimanus,Chiroptera,0.47,23.2,"Jones & MacLarnon, 2004",NA
+Taphozous_mauritianus,Chiroptera,0.55,29,"Jones & MacLarnon, 2004",NA
+Taphozous_melanopogon,Chiroptera,0.54,22.7,"Jones & MacLarnon, 2004",NA
+Taphozous_nudiventris,Chiroptera,0.57,30.1,"Shi et al., 2018","Faurby et al., 2018"
+Taphozous_theobaldi,Chiroptera,0.68,39.8,"Jones & MacLarnon, 2004",NA
+Tapirus_bairdii,Perissodactyla,85,14260,"Boddy et al., 2012",NA
+Tapirus_indicus,Perissodactyla,265,201000,"Isler & van Schaik, 2012",NA
+Tapirus_terrestris,Perissodactyla,180.5,160000,"Isler & van Schaik, 2012",NA
+Tarsipes_rostratus,Diprotodontia,0.36,9,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Tarsius_bancanus,Primates,2.7,77.6,"Boddy et al., 2012",NA
+Tarsius_dentatus,Primates,3,113,"Isler et al., 2008",NA
+Tarsius_syrichta,Primates,3.36,125.5,"Isler et al., 2008",NA
+Tarsius_tarsier,Primates,3.4,126,"Isler & van Schaik, 2012",NA
+Tatera_indica,Rodentia,1.84,139.7,"Boddy et al., 2012",NA
+Taterillus_congicus,Rodentia,1.06,50.1,Scan,"Faurby et al., 2018"
+Taterillus_gracilis,Rodentia,1,47,"Isler & van Schaik, 2012",NA
+Taxidea_taxus,Carnivora,48.9,7425,"Isler & van Schaik, 2012",NA
+Tayassu_pecari,Artiodactyla,145.8,32233.33,"Boddy et al., 2012",NA
+Tenrec_ecaudatus,Afrosoricida,2.84,907,"Boddy et al., 2012",NA
+Thallomys_paedulcus,Rodentia,0.82,81,"Isler & van Schaik, 2009",NA
+Thamnomys_venustus,Rodentia,1.13,65,"Burger et al., 2019",NA
+Theropithecus_gelada,Primates,130,7710,"Boddy et al., 2012",NA
+Thomomys_bottae,Rodentia,1.47,162.95,"Boddy et al., 2012",NA
+Thomomys_bulbivorus,Rodentia,2.2,344,"Isler & van Schaik, 2012",NA
+Thomomys_talpoides,Rodentia,1.24,105.65,"Boddy et al., 2012",NA
+Thoopterus_nigrescens,Chiroptera,1.47,60.4,Scan,"Faurby et al., 2018"
+Thrichomys_apereoides,Rodentia,3.87,339,Scan,"Faurby et al., 2018"
+Thryonomys_gregorianus,Rodentia,11.17,3500,"Heldstab et al., 2018",NA
+Thryonomys_swinderianus,Rodentia,13.28,1625,"Boddy et al., 2012",NA
+Thylamys_elegans,Didelphimorphia,0.71,25,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thylamys_pallidior,Didelphimorphia,0.72,20.7,"Ashwell, 2008",NA
+Thylogale_billardierii,Diprotodontia,22.1,5450,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thylogale_browni,Diprotodontia,18.3,5478,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thylogale_brunii,Diprotodontia,17.5,3620,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thylogale_stigmatica,Diprotodontia,17.8,4600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thylogale_thetis,Diprotodontia,19.2,5400,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Thyroptera_tricolor,Chiroptera,0.23,4.5,"Jones & MacLarnon, 2004",NA
+Tolypeutes_matacus,Xenarthra,8.86,1200,"Stankowich & Romero, 2017",NA
+Tonatia_bidens,Chiroptera,0.79,29.4,"Jones & MacLarnon, 2004",NA
+Tonatia_saurophila,Chiroptera,0.83,30,"Shi et al., 2018","Faurby et al., 2018"
+Trachops_cirrhosus,Chiroptera,0.91,36.45,"Jones & MacLarnon, 2004",NA
+Trachypithecus_auratus,Primates,63.6,9525,"van Woerden et al., 2011",NA
+Trachypithecus_cristatus,Primates,55,6060,"Isler & van Schaik, 2012",NA
+Trachypithecus_francoisi,Primates,94.4,9100,"Boddy et al., 2012",NA
+Trachypithecus_geei,Primates,81.3,9500,"Isler & van Schaik, 2012",NA
+Trachypithecus_germaini,Primates,76,7071.5,"Isler et al., 2008",NA
+Trachypithecus_johnii,Primates,84.6,11600,"Isler & van Schaik, 2012",NA
+Trachypithecus_obscurus,Primates,60,6765,"Isler & van Schaik, 2012",NA
+Trachypithecus_phayrei,Primates,72.84,7474.92,"Isler et al., 2008",NA
+Trachypithecus_pileatus,Primates,103.64,11793.5,"Isler et al., 2008",NA
+Trachypithecus_vetulus,Primates,60.4,5103,"Isler & van Schaik, 2012",NA
+Tragelaphus_angasii,Artiodactyla,230,137000,"Isler & van Schaik, 2012",NA
+Tragelaphus_buxtoni,Artiodactyla,330,280000,"Isler & van Schaik, 2012",NA
+Tragelaphus_derbianus,Artiodactyla,534,900000,"Isler & van Schaik, 2012",NA
+Tragelaphus_eurycerus,Artiodactyla,389,253000,"Boddy et al., 2012",NA
+Tragelaphus_imberbis,Artiodactyla,219,145000,"Isler & van Schaik, 2012",NA
+Tragelaphus_oryx,Artiodactyla,440,400000,"Isler & van Schaik, 2012",NA
+Tragelaphus_scriptus,Artiodactyla,165,44225,"Boddy et al., 2012",NA
+Tragelaphus_spekii,Artiodactyla,145,42000,"Isler & van Schaik, 2012",NA
+Tragelaphus_strepsiceros,Artiodactyla,361,280000,"Isler & van Schaik, 2012",NA
+Tragulus_javanicus,Artiodactyla,15.8,2037,"Isler & van Schaik, 2012",NA
+Tragulus_napu,Artiodactyla,18.5,2510,"Boddy et al., 2012",NA
+Tremarctos_ornatus,Carnivora,202.3,110000,"Finarelli & Flynn, 2009",NA
+Triaenops_persicus,Chiroptera,0.27,13.7,"Jones & MacLarnon, 2004",NA
+Trichechus_manatus,Sirenia,364,756000,"Boddy et al., 2012",NA
+Trichosurus_caninus,Diprotodontia,11.9,2900,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Trichosurus_vulpecula,Diprotodontia,11,2600,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Trichys_fasciculata,Rodentia,13.05,1560,"Stankowich & Romero, 2017",NA
+Tscherskia_triton,Rodentia,1.29,25,"Boddy et al., 2012",NA
+Tupaia_belangeri,Scandentia,3.11,87.7,"Heldstab et al., 2018",NA
+Tupaia_glis,Scandentia,3.2,170,"Boddy et al., 2012",NA
+Tupaia_javanica,Scandentia,2.3,80,"Burger et al., 2019",NA
+Tupaia_minor,Scandentia,2.58,70,"Boddy et al., 2012",NA
+Tursiops_aduncus,Cetacea,1498,141150,"Burger et al., 2019",NA
+Tursiops_truncatus,Cetacea,1573,170480,"Boddy et al., 2012",NA
+Tylomys_nudicaudus,Rodentia,2.11,100,Scan,"Faurby et al., 2018"
+Tylonycteris_pachypus,Chiroptera,0.08,4.6,"Jones & MacLarnon, 2004",NA
+Tylonycteris_robustula,Chiroptera,0.12,7.6,"Jones & MacLarnon, 2004",NA
+Uranomys_ruddi,Rodentia,0.77,33.6,"Boddy et al., 2012",NA
+Urocitellus_armatus,Rodentia,3.09,371.1,"Mateju, 2016",NA
+Urocitellus_beldingi,Rodentia,2.96,246.9,"Mateju, 2016",NA
+Urocitellus_brunneus,Rodentia,2.11,116.8,"Mateju, 2016",NA
+Urocitellus_canus,Rodentia,1.6,154,"Mateju, 2016",NA
+Urocitellus_columbianus,Rodentia,3.95,465.8,"Mateju, 2016",NA
+Urocitellus_elegans,Rodentia,2.76,307.1,"Mateju, 2016",NA
+Urocitellus_mollis,Rodentia,1.67,117.1,"Mateju, 2016",NA
+Urocitellus_parryii,Rodentia,5.78,462.8,"Mateju, 2016",NA
+Urocitellus_richardsonii,Rodentia,3.18,331.5,"Mateju, 2016",NA
+Urocitellus_townsendii,Rodentia,1.89,149.5,"Mateju, 2016",NA
+Urocitellus_undulatus,Rodentia,3.73,677.3,"Mateju, 2016",NA
+Urocitellus_washingtoni,Rodentia,1.8,186.5,"Mateju, 2016",NA
+Urocyon_cinereoargenteus,Carnivora,37.28,3749,"Boddy et al., 2012",NA
+Urocyon_littoralis,Carnivora,27.7,1896,"Isler & van Schaik, 2012",NA
+Uroderma_bilobatum,Chiroptera,0.58,15.63,"Jones & MacLarnon, 2004",NA
+Uroderma_magnirostrum,Chiroptera,0.59,16.9,"Shi et al., 2018","Faurby et al., 2018"
+Urogale_everetti,Scandentia,4.28,275,"Boddy et al., 2012",NA
+Ursus_americanus,Carnivora,248,25990,"Boddy et al., 2012",NA
+Ursus_arctos,Carnivora,335.97,131022.67,"Boddy et al., 2012",NA
+Ursus_maritimus,Carnivora,507,317000,"Boddy et al., 2012",NA
+Ursus_thibetanus,Carnivora,269,69860,"Perez-Barbería et al., 2007",NA
+Vampyressa_melissa,Chiroptera,0.42,16.3,"Shi et al., 2018","Faurby et al., 2018"
+Vampyressa_pusilla,Chiroptera,0.39,8.55,"Jones & MacLarnon, 2004",NA
+Vampyriscus_brocki,Chiroptera,0.35,10,"Shi et al., 2018","Faurby et al., 2018"
+Vampyrodes_caraccioli,Chiroptera,0.95,39.7,"Jones & MacLarnon, 2004",NA
+Vampyrum_spectrum,Chiroptera,2.87,181,"Jones & MacLarnon, 2004",NA
+Varecia_rubra,Primates,31.08,3470,"Isler et al., 2008",NA
+Varecia_variegata,Primates,31.2,2705.5,"Boddy et al., 2012",NA
+Vespadelus_pumilus,Chiroptera,0.12,5.45,"Jones & MacLarnon, 2004",NA
+Vespertilio_murinus,Chiroptera,0.45,33.3,"Jones & MacLarnon, 2004",NA
+Vicugna_vicugna,Artiodactyla,199.9,46215,"Isler & van Schaik, 2012",NA
+Viverra_civettina,Carnivora,42.1,8500,"Perez-Barbería et al., 2007",NA
+Viverra_megaspila,Carnivora,36.6,8500,"Gittleman, 1986",NA
+Viverra_tangalunga,Carnivora,24.1,4710,"Isler & van Schaik, 2012",NA
+Viverra_zibetha,Carnivora,37,8500,"Isler & van Schaik, 2012",NA
+Viverricula_indica,Carnivora,16.78,2660,"Gittleman, 1986",NA
+Vombatus_ursinus,Diprotodontia,59,26000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Vormela_peregusna,Carnivora,4.8,448,"Isler & van Schaik, 2012",NA
+Vulpes_bengalensis,Carnivora,24.5,2260,"Isler & van Schaik, 2012",NA
+Vulpes_chama,Carnivora,33.5,2955,"Isler & van Schaik, 2012",NA
+Vulpes_corsac,Carnivora,35.74,2615.33,"Heldstab et al., 2018",NA
+Vulpes_lagopus,Carnivora,35.5,3415,"Isler & van Schaik, 2012",NA
+Vulpes_pallida,Carnivora,25.03,3600,"Gittleman, 1986",NA
+Vulpes_rueppellii,Carnivora,25.8,2250,"Perez-Barbería et al., 2007",NA
+Vulpes_velox,Carnivora,32.1,2345,"Isler & van Schaik, 2012",NA
+Vulpes_vulpes,Carnivora,49.64,3722.71,"Boddy et al., 2012",NA
+Vulpes_zerda,Carnivora,17.3,969,"Isler & van Schaik, 2012",NA
+Wallabia_bicolor,Diprotodontia,32.9,15000,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Wyulda_squamicaudata,Diprotodontia,10.1,1675,"Ashwell, 2008; Weisbecker et al., 2015",NA
+Xerospermophilus_mohavensis,Rodentia,2.03,154,"Mateju, 2016",NA
+Xerospermophilus_perotensis,Rodentia,2.79,140,"Mateju, 2016",NA
+Xerospermophilus_spilosoma,Rodentia,2.37,132.7,"Mateju, 2016",NA
+Xerospermophilus_tereticaudus,Rodentia,1.68,133.3,"Mateju, 2016",NA
+Xerus_erythropus,Rodentia,6.68,722.5,"Boddy et al., 2012",NA
+Xerus_inauris,Rodentia,7.65,400,"Boddy et al., 2012",NA
+Xerus_rutilus,Rodentia,5.09,317.5,"Boddy et al., 2012",NA
+Zaedyus_pichiy,Xenarthra,7.98,1740,"Stankowich & Romero, 2017",NA
+Zaglossus_bruijnii,Monotremata,37.35,7500,"Boddy et al., 2012",NA
+Zalophus_californianus,Carnivora,405,91000,"Boddy et al., 2012",NA
+Zapus_hudsonius,Rodentia,0.55,17.47,"Boddy et al., 2012",NA
+Zapus_princeps,Rodentia,0.5,24.5,"Boddy et al., 2012",NA
+Zapus_trinotatus,Rodentia,0.5,27.5,"Isler & van Schaik, 2012",NA
+Ziphius_cavirostris,Cetacea,2004,2273000,"Montgomery et al., 2013",NA
+Zygogeomys_trichopus,Rodentia,3.95,545,"Boddy et al., 2012",NA
