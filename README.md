@@ -6,5 +6,3 @@ Datos Utilizados en el proyecto Fondecyt 1170815
 ## en la capeta "anexo" se encuentran:
     1. **Referencias_Anexo.docx**: Contiene las referencias bibliográficas de los datos en el **ANEXO.csv**
     2. **Tabla5_Anexo5.docx**: Tabla 5 del Anexo 5 que muestra la comparación de modelos mixtos filogenéticos realizados en Objetivo 4
-
-  2. **Tabla5_Anexo5.docx_rep**: Tabla 5 del Anexo 5 que muestra la comparación de modelos mixtos filogenéticos realizados en Objetivo 4
